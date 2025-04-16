@@ -6,6 +6,7 @@
       {
         "id": "061ea0ff9b8e46b2",
         "type": "tabs",
+        "dimension": 41.0472972972973,
         "children": [
           {
             "id": "fd23cdd73e340147",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adeptus astartes/Adeptus Astartes.md",
+                "file": "imperium/adeptus astartes/legion/seconde fondation/Angels of Vengeance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adeptus Astartes"
+              "title": "Angels of Vengeance"
             }
           },
           {
@@ -41,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adeptus astartes/Adeptus Astartes.md",
+                "file": "imperium/adeptus astartes/legion/Adeptus Astartes.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,8 +50,24 @@
               "title": "Adeptus Astartes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "9a2c2246d8227994",
+        "type": "tabs",
+        "dimension": 58.952702702702695,
+        "children": [
+          {
+            "id": "f8a19b4ef60bbb8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 308.5
   },
   "right": {
     "id": "6b348aa6fb1b20b3",
@@ -205,44 +222,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8aadf05edb7bb452",
+  "active": "f8a19b4ef60bbb8d",
   "lastOpenFiles": [
-    "chaos/demon du chaos/dieu du chaos/Khorne.md",
-    "README.md",
-    "lore-warhammer/README.md",
-    "lore-warhammer",
-    "main/README.md",
-    "main",
+    "imperium/adeptus astartes/legion/seconde fondation/Angels of Vengeance.md",
+    "imperium/adeptus astartes/legion/seconde fondation/Angels of Redemption.md",
+    "imperium/adeptus astartes/legion/seconde fondation/Angels of Absolution.md",
+    "imperium/adeptus astartes/planete origine/Unkown.md",
+    "imperium/adeptus astartes/legion/seconde fondation/Untitled",
+    "imperium/adeptus astartes/legion/première fondation/death guard",
+    "imperium/adeptus astartes/legion/première fondation/dark angels",
+    "imperium/adeptus astartes/legion/première fondation/blood angels",
+    "imperium/adeptus astartes/legion/première fondation/alpha legion",
+    "imperium/adeptus astartes/planete origine/Deliverance.md",
+    "imperium/adeptus astartes/planete origine/Nocturne.md",
+    "imperium/adeptus astartes/legion/première fondation/Word Eaters.md",
+    "imperium/adeptus astartes/planete origine/Colchis.md",
+    "imperium/adeptus astartes/legion/première fondation/World Bearers.md",
+    "imperium/adeptus astartes/planete origine/Chtonia.md",
+    "imperium/adeptus astartes/planete origine/Prospero.md",
+    "imperium/adeptus astartes/planete origine/Barbarus.md",
+    "imperium/adeptus astartes/planete origine/Macragge.md",
+    "imperium/adeptus astartes/planete origine/Medusa.md",
+    "imperium/adeptus astartes/planete origine/Baal.md",
+    "Untitled.md",
+    "imperium/adeptus astartes/planete origine/Nostramo.md",
+    "imperium/adeptus astartes/planete origine/Caliban.md",
+    "imperium/adeptus astartes/planete origine/Terra.md",
+    "imperium/adeptus astartes/planete origine/Fenris.md",
+    "imperium/adeptus astartes/planete origine/Mundus Planus.md",
+    "imperium/adeptus astartes/planete origine/Olympia.md",
+    "imperium/adeptus astartes/planete origine/Chemos.md",
+    "imperium/adeptus astartes/planete origine/Untitled",
+    "imperium/Empereur.md",
+    "imperium/adeptus astartes/legion/seconde fondation",
+    "imperium/adeptus astartes/legion/première fondation",
+    "imperium/adeptus astartes/planete origine",
+    "imperium/adeptus astartes/legion",
+    "imperium/adeptus astartes/legion/Adeptus Astartes.md",
     "2025-04-16.md",
-    "Untitled.canvas",
-    "chaos/chaos.md",
-    "chaos/chaos astartes/Chaos Astartes.md",
-    "imperium/primarch/Horus.md",
-    "imperium/primarch/Magnus le rouge.md",
-    "imperium/primarch/Angron.md",
-    "imperium/primarch/Mortarion.md",
-    "imperium/primarch/Fulgrim.md",
-    "imperium/primarch/Lorgar.md",
-    "imperium/primarch/Perturabo.md",
-    "imperium/primarch/Konrad Curze.md",
-    "imperium/primarch/Alpharius-Omegon.md",
-    "chaos/demon du chaos/dieu du chaos/Nurgle.md",
-    "chaos/demon du chaos/slaanesh",
-    "chaos/demon du chaos/Untitled.md",
-    "chaos/demon du chaos/tzeentch",
-    "chaos/demon du chaos/nurgle",
-    "chaos/demon du chaos/khorne",
-    "chaos/demon du chaos/dieu du chaos/Slaanesh.md",
-    "chaos/demon du chaos/dieu du chaos/Tzeentch.md",
-    "chaos/demon du chaos/Demon du Chaos.md",
-    "chaos/demon du chaos/dieu du chaos",
-    "chaos/demon du chaos",
-    "chaos/chaos astartes/Fallen.md",
-    "Warhammer 40.000.md",
-    "imperium/adeptus astartes/Dark angels.md",
-    "chaos/chaos astartes/fallen",
-    "chaos/chaos astartes",
-    "imperium/adeptus astartes/Adeptus Astartes.md",
-    "imperium/adeptus astartes/Death Guard.md"
+    "Untitled.canvas"
   ]
 }

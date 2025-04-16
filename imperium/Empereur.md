@@ -2,3 +2,4 @@
 tags:
   - imperium
 ---
+[[Primarch]]

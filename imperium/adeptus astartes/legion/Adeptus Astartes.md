@@ -1,6 +1,6 @@
 Chaques, des 20 légions d'origine était dirigée par un [[Primarch]] 
 
-1er légion : [[dark angels]]
+1er légion : [[Dark angels]]
 2eme légion : [[II légion]]
 3eme légion: traitre
 4eme légion : traitre

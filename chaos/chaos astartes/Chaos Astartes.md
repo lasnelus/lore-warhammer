@@ -2,7 +2,7 @@
 [[Emperor's Children]]
 [[Iron Warriors]]
 [[Night Lords]]
-[[World Eaters]]
+[[Word Eaters]]
 [[Death Guard]]
 [[Thousand Sons]]
 [[Luna Wolves-Sons of Horus]]
