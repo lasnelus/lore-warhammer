@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chaos/demon du chaos/dieu du chaos/Khorne.md",
+                "file": "imperium/adeptus astartes/Adeptus Astartes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Khorne"
+              "title": "Adeptus Astartes"
             }
           }
         ],
@@ -207,6 +207,7 @@
   },
   "active": "8aadf05edb7bb452",
   "lastOpenFiles": [
+    "chaos/demon du chaos/dieu du chaos/Khorne.md",
     "README.md",
     "lore-warhammer/README.md",
     "lore-warhammer",
@@ -232,7 +233,6 @@
     "chaos/demon du chaos/nurgle",
     "chaos/demon du chaos/khorne",
     "chaos/demon du chaos/dieu du chaos/Slaanesh.md",
-    "chaos/demon du chaos/dieu du chaos/Khorne.md",
     "chaos/demon du chaos/dieu du chaos/Tzeentch.md",
     "chaos/demon du chaos/Demon du Chaos.md",
     "chaos/demon du chaos/dieu du chaos",
