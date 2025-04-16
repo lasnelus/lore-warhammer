@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "b41ad16e4abe42b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "061ea0ff9b8e46b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd23cdd73e340147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "imperium/adeptus astartes/Adeptus Astartes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adeptus Astartes"
+            }
+          },
+          {
+            "id": "501677bd70730785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "imperium/adeptus astartes/Dark angels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dark angels"
+            }
+          },
+          {
+            "id": "8aadf05edb7bb452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chaos/demon du chaos/dieu du chaos/Khorne.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Khorne"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c51674699ec3f40",
+    "type": "split",
+    "children": [
+      {
+        "id": "e92aefde3ef5ff13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83dddb176065fd70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6c5959d4e853f113",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3375f757e35b2205",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "6b348aa6fb1b20b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4995de667df461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75809b81c1fc6f71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "eacdec35d16df62f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "edfec1006e05334a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "600fcf4ef1e96eda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1c5e50c571e43dab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8aadf05edb7bb452",
+  "lastOpenFiles": [
+    "README.md",
+    "lore-warhammer/README.md",
+    "lore-warhammer",
+    "main/README.md",
+    "main",
+    "2025-04-16.md",
+    "Untitled.canvas",
+    "chaos/chaos.md",
+    "chaos/chaos astartes/Chaos Astartes.md",
+    "imperium/primarch/Horus.md",
+    "imperium/primarch/Magnus le rouge.md",
+    "imperium/primarch/Angron.md",
+    "imperium/primarch/Mortarion.md",
+    "imperium/primarch/Fulgrim.md",
+    "imperium/primarch/Lorgar.md",
+    "imperium/primarch/Perturabo.md",
+    "imperium/primarch/Konrad Curze.md",
+    "imperium/primarch/Alpharius-Omegon.md",
+    "chaos/demon du chaos/dieu du chaos/Nurgle.md",
+    "chaos/demon du chaos/slaanesh",
+    "chaos/demon du chaos/Untitled.md",
+    "chaos/demon du chaos/tzeentch",
+    "chaos/demon du chaos/nurgle",
+    "chaos/demon du chaos/khorne",
+    "chaos/demon du chaos/dieu du chaos/Slaanesh.md",
+    "chaos/demon du chaos/dieu du chaos/Khorne.md",
+    "chaos/demon du chaos/dieu du chaos/Tzeentch.md",
+    "chaos/demon du chaos/Demon du Chaos.md",
+    "chaos/demon du chaos/dieu du chaos",
+    "chaos/demon du chaos",
+    "chaos/chaos astartes/Fallen.md",
+    "Warhammer 40.000.md",
+    "imperium/adeptus astartes/Dark angels.md",
+    "chaos/chaos astartes/fallen",
+    "chaos/chaos astartes",
+    "imperium/adeptus astartes/Adeptus Astartes.md",
+    "imperium/adeptus astartes/Death Guard.md"
+  ]
+}

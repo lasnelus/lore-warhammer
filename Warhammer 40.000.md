@@ -1,0 +1,6 @@
+[[Imperium]]
+[[chaos]]
+[[tyranide]]
+[[Eldar]]
+[[necron]]
+[[orc]]
