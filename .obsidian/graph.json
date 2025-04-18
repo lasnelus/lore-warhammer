@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,14 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag: imperium",
+      "query": "path:chaos  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"imperium/adeptus astartes/legion/première fondation/dark angels\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 31291
+      }
+    },
+    {
+      "query": "path:\"imperium/adeptus astartes/legion/première fondation/ultramarines\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 17791
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.981185031185031,
@@ -25,6 +39,6 @@
   "repelStrength": 4.42827442827443,
   "linkStrength": 0.445945945945946,
   "linkDistance": 30,
-  "scale": 0.22920135941749356,
+  "scale": 0.09392927902847048,
   "close": true
 }

@@ -5,6 +5,5 @@
 [[Guardians of the Covenant]][[Knights of Abhorrence]]
 [[Knights of the Chalice]]
 [[Le Sans-nom]]
-[[Lions Sable]]
 [[Penitent Blades]]
 [[Prime Absolvers]]

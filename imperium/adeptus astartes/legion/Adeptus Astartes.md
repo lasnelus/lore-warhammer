@@ -1,4 +1,4 @@
-Chaques, des 20 légions d'origine était dirigée par un [[Primarch]] 
+Chaques, des 20 légions d'origine était dirigée par un primarch
 
 1er légion : [[Dark angels]]
 2eme légion : [[II légion]]
