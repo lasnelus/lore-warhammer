@@ -2,3 +2,11 @@
 [[Sons of Orar]]
 [[Aquiloan Brotherhood]]
 [[Angels of Fury]]
+[[Iron Hounds]]
+[[Fire Hawks]]
+[[Fire Angels]]
+[[Howling Griffons]]
+[[Sons of Guilliman]]
+[[Emperor's Spears]]
+
+on donnée leur génome au [[Mentor Legion]]
