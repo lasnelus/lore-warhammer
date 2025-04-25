@@ -16,5 +16,6 @@
 [[Knights Cerulean]]
 [[Praetors of Ultramar]]
 [[Silver Templars]]
+[[Brazen Consuls]]
 
 on donnée leur génome au [[Mentor Legion]]
