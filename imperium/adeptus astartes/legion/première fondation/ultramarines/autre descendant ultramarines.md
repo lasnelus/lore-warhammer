@@ -8,5 +8,13 @@
 [[Howling Griffons]]
 [[Sons of Guilliman]]
 [[Emperor's Spears]]
+[[Scythes of the Emperor]]
+[[Tome Keepers]]
+[[Angels Revenant]]
+[[Sons of Antaeus]]
+[[Avenging Sons]]
+[[Knights Cerulean]]
+[[Praetors of Ultramar]]
+[[Silver Templars]]
 
 on donnée leur génome au [[Mentor Legion]]
