@@ -17,5 +17,7 @@
 [[Praetors of Ultramar]]
 [[Silver Templars]]
 [[Brazen Consuls]]
+[[Doom Legion]]
+
 
 on donnée leur génome au [[Mentor Legion]]
