@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "4813691a421812c7",
+            "id": "5e503fa32b600526",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,9 +215,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79b676ebe61991e1",
+  "active": "5e503fa32b600526",
   "lastOpenFiles": [
     "imperium/adeptus astartes/Adeptus Astartes.md",
+    "Prandium Consul.md",
+    "planete origine/Terra.md",
+    "planete origine/Nocturne.md",
+    "imperium/adeptus astartes/legion/vingt-sixième fondation/mentor legion/Mentor Legion.md",
+    "Night Watch.md",
     "imperium/adeptus astartes/legion/première fondation/ultramarines/autre descendant ultramarines.md",
     "imperium/adeptus astartes/legion/fondation ultima/castellans of the rift/Castellans of the Rift.md",
     "imperium/adeptus astartes/legion/hors fondation/brazen consuls/Brazen Consuls.md",
@@ -248,11 +253,6 @@
     "imperium/adeptus astartes/legion/fondation ultima/wolfspear/Wolfspear.md",
     "imperium/adeptus astartes/legion/fondation ultima/mooneaters/Mooneaters.md",
     "imperium/adeptus astartes/legion/fondation ultima/icefangs/Icefangs.md",
-    "imperium/adeptus astartes/legion/fondation ultima/iron drakes/Iron Drakes.md",
-    "imperium/adeptus astartes/legion/fondation ultima/hammers of nocturne/Hammers of Nocturne.md",
-    "imperium/adeptus astartes/legion/fondation ultima/dragonspears/Dragonspears.md",
-    "imperium/adeptus astartes/legion/fondation ultima/dark krakens/Dark Krakens.md",
-    "imperium/adeptus astartes/legion/fondation ultima/covenant of fire/Covenant of Fire.md",
     "Untitled.canvas"
   ]
 }
