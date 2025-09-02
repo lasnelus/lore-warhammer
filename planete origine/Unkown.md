@@ -1,2 +1,2 @@
-[[Word Eaters]]
+[[World Eaters]]
 [[Alpha Legion]]
