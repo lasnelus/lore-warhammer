@@ -10,6 +10,7 @@
           {
             "id": "07a81abc9bb3bfaf",
             "type": "tabs",
+            "dimension": 67.35436893203884,
             "children": [
               {
                 "id": "77d317d9789484b7",
@@ -20,16 +21,32 @@
                   "icon": "lucide-git-fork",
                   "title": "Graph view"
                 }
+              },
+              {
+                "id": "6c8b3e90dcf69c5f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "imperium/adeptus astartes/legion/fondation ultima/Fondation Ultima.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Fondation Ultima"
+                }
               }
             ]
           },
           {
             "id": "b9004f660f0d6e2c",
             "type": "split",
+            "dimension": 32.64563106796117,
             "children": [
               {
                 "id": "9a2c2246d8227994",
                 "type": "tabs",
+                "dimension": 50,
                 "children": [
                   {
                     "id": "ab8af882fd3fbf38",
@@ -50,6 +67,7 @@
               {
                 "id": "928d362e71ac3ef5",
                 "type": "tabs",
+                "dimension": 50,
                 "children": [
                   {
                     "id": "066b1a866282f687",
@@ -242,12 +260,16 @@
   },
   "active": "77d317d9789484b7",
   "lastOpenFiles": [
+    "Renegade Chapters.md",
+    "imperium/adeptus astartes/legion/fondation ultima/Fondation Ultima.md",
+    "imperium/adeptus astartes/legion/fondation ultima/hammers of nocturne/Hammers of Nocturne.md",
+    "imperium/adeptus astartes/legion/fondation ultima/moon eaters/Moon Eaters.md",
     "Destroyed-Lost Chapters.md",
+    "imperium/adeptus astartes/legion/première fondation/ultramarines/autre descendant ultramarines.md",
+    "imperium/adeptus astartes/legion/seconde fondation/Soul Drinkers.md",
     "chaos/chaos astartes/Chaos Astartes.md",
     "imperium/adeptus astartes/Adeptus Astartes.md",
-    "Renegade Chapters.md",
     "Untitled.canvas",
-    "imperium/adeptus astartes/legion/première fondation/ultramarines/autre descendant ultramarines.md",
     "Prandium Consul.md",
     "planete origine/Terra.md",
     "planete origine/Nocturne.md",
@@ -272,12 +294,8 @@
     "imperium/adeptus astartes/legion/fondation ultima/nemesors",
     "imperium/adeptus astartes/legion/fondation ultima/brazen skulls/Brazen Skulls.md",
     "imperium/adeptus astartes/legion/fondation ultima/knights of thunder",
-    "imperium/adeptus astartes/legion/fondation ultima/black vultures/Black Vultures.md",
     "imperium/adeptus astartes/legion/fondation ultima/brazen skulls",
     "imperium/adeptus astartes/legion/fondation ultima/black vultures",
-    "imperium/adeptus astartes/legion/fondation ultima/knights cerulean/Knights Cerulean.md",
-    "imperium/adeptus astartes/legion/fondation ultima/silver templars",
-    "imperium/adeptus astartes/legion/fondation ultima/praetors of ultramar/Praetors of Ultramar.md",
-    "imperium/adeptus astartes/legion/fondation ultima/avenging sons/Avenging Sons.md"
+    "imperium/adeptus astartes/legion/fondation ultima/silver templars"
   ]
 }
