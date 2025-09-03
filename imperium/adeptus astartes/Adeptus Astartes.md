@@ -35,7 +35,7 @@ Chaques, des 20 légions d'origine était dirigée par un primarch
 [[Angels of Absolution]]
 [[Angels of Damnation]]
 [[Angels of Defiance]]
-[[Angels of Escelsis]]
+[[Angels Excelsis]]
 [[Angels of Fire]]
 [[Angels of Fury]]
 [[Angels of Iron]]

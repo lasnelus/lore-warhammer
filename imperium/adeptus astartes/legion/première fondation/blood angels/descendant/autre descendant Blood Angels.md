@@ -11,3 +11,4 @@
 [[Knights Sanguine]]
 [[Angels Erythrean]]
 [[Angels Numinous]]
+[[Angels of Light]]

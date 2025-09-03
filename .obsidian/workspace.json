@@ -32,6 +32,20 @@
             }
           },
           {
+            "id": "931b545cee6abb3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "imperium/adeptus astartes/legion/première fondation/blood angels/descendant/autre descendant Blood Angels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "autre descendant Blood Angels"
+            }
+          },
+          {
             "id": "9cda6295455901bb",
             "type": "leaf",
             "state": {
@@ -60,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 299.5
   },
   "right": {
     "id": "6b348aa6fb1b20b3",
@@ -230,17 +244,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c15d841d0f04a768",
+  "active": "d01f5990ff3c2cef",
   "lastOpenFiles": [
-    "imperium/adeptus astartes/legion/fondation inconnue/angels of damnation/Angels of Damnation.md",
     "imperium/adeptus astartes/Adeptus Astartes.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/angels of purgatory/Angels of Purgatory.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/angels of purgatory",
+    "imperium/adeptus astartes/legion/fondation inconnue/angels of penance/Angels of Penance.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/angels of penance",
+    "imperium/adeptus astartes/legion/fondation inconnue/Untitled.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/angels of light/Angels of Light.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/angels of light",
+    "imperium/adeptus astartes/legion/première fondation/blood angels/descendant/autre descendant Blood Angels.md",
     "imperium/adeptus astartes/legion/fondation inconnue/fondation inconnue.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/angels of iron/Angels of Iron.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/angels of iron",
+    "imperium/adeptus astartes/legion/fondation inconnue/angels excelsis/Angels Excelsis.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/angels of damnation/Angels of Damnation.md",
     "imperium/adeptus astartes/legion/fondation inconnue/angels of damnation",
     "imperium/adeptus astartes/legion/hors fondation/angels numinous/Angels Numinous.md",
     "imperium/adeptus astartes/legion/fondation inconnue/blood eagles/descendant/descendant blood eagles.md",
     "imperium/adeptus astartes/legion/fondation inconnue/blood eagles/Blood Eagles.md",
     "imperium/adeptus astartes/legion/fondation inconnue/blood eagles/descendant",
-    "imperium/adeptus astartes/legion/première fondation/blood angels/descendant/autre descendant Blood Angels.md",
     "imperium/adeptus astartes/legion/hors fondation/angels numinous",
     "imperium/adeptus astartes/legion/fondation inconnue/angels eradicant/Angels Eradicant.md",
     "imperium/adeptus astartes/legion/fondation inconnue/angels eradicant",
@@ -249,25 +273,15 @@
     "imperium/adeptus astartes/legion/fondation inconnue/andromedan blades/Andromedan Blades.md",
     "imperium/adeptus astartes/legion/fondation inconnue/andromedan blades",
     "imperium/adeptus astartes/legion/fondation inconnue/adulators/Adulators.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/adulators",
     "imperium/adeptus astartes/legion/fondation inconnue/accipiters/Accipiters.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/accipiters",
     "imperium/adeptus astartes/legion/fondation inconnue/absolvers/Absolvers.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/absolvers",
     "imperium/adeptus astartes/legion/première fondation/raven guard/descendant/descendant 2nd fondation raven guard.md",
     "imperium/adeptus astartes/legion/première fondation/ultramarines/descendant/descendant 2nd fondations ultramarines.md",
     "imperium/adeptus astartes/legion/première fondation/iron hands/descendant/descendant 2nd fondation iron hands.md",
     "imperium/adeptus astartes/legion/première fondation/blood angels/descendant/descendant 2nd fondation blood angels.md",
-    "imperium/adeptus astartes/legion/première fondation/iron hands/descendant",
     "imperium/adeptus astartes/legion/première fondation/imperial fists/descendant/descendant 2nd fondation imperial fists.md",
     "imperium/adeptus astartes/legion/première fondation/white scars/descendant/descendant 2nd fondation white scars.md",
     "imperium/adeptus astartes/legion/fondation inconnue/prandium consul/Prandium Consul.md",
-    "Destroyed-Lost Chapters.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/emperor's swords (ghorstangrad)/Emperor's Swords (Ghorstangrad).md",
-    "imperium/adeptus astartes/legion/première fondation/dark angels/descendant/autre descendant dark angels.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/bladekeepers/Bladekeepers.md",
-    "imperium/adeptus astartes/legion/première fondation/dark angels/descendant/descendant 2nd fondations dark angels.md",
-    "imperium/adeptus astartes/legion/première fondation/dark angels/Dark angels.md",
     "Untitled.canvas"
   ]
 }
