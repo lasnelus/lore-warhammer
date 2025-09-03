@@ -9,6 +9,7 @@
 [[Castellans of the Rift]]
 [[Consecrators]]
 [[Covenant of Fire]]
+[[imperium/adeptus astartes/legion/fondation ultima/cowled wardens/Cowled wardens|Cowled wardens]]
 [[Dark Krakens]]
 [[Dragons Ardent]]
 [[Dragonspears]]

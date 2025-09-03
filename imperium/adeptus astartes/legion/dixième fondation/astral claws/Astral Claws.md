@@ -1,2 +1,3 @@
-[[Red Corsairs]]
-[[Tiger Claws]]
+
+
+[[descendant Astral Claws]]

@@ -265,6 +265,7 @@
 [[Prophets of the Blighted Path]]
 [[Prophets of the Seven]]
 [[Punishers]]
+[[The Pure - The Basilisks]]
 [[The Purge]]
 [[Putrid Brotherhood]]
 [[Putrid Choir]]

@@ -6,6 +6,7 @@
 [[Knights of Blood]]
 [[Relictors]]
 [[Sons of Commodus]]
+[[Sons of Gideon]]
 [[imperium/adeptus astartes/legion/seconde fondation/Soul Drinkers|Soul Drinkers]]
 [[Star Gorgons]]
 [[Tiger Claws]]

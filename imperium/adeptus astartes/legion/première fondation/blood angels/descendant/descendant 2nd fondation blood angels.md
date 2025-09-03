@@ -1,0 +1,5 @@
+[[Angels Encarmine]]
+[[Angels Sanguine]]
+[[Flesh Tearers]]
+[[Angels Vermillion]]
+[[Blood Drinkers]]

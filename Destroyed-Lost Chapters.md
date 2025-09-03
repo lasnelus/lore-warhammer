@@ -19,6 +19,7 @@
 [[Dark paladins]]
 [[Emerald Snakes]]
 [[Emperor's Swords (Bellicas)]]
+[[Emperor's Swords (Ghorstangrad)]]
 [[Exsanguinators]]
 [[Fire Hawks]]
 [[Fists Exemplar]]

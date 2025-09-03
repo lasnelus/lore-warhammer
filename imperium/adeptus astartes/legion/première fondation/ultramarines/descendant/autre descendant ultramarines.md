@@ -2,6 +2,7 @@
 [[Sons of Orar]]
 [[Aquiloan Brotherhood]]
 [[Angels of Fury]]
+[[Crimson Consuls]]
 [[Iron Hounds]]
 [[Fire Hawks]]
 [[Fire Angels]]
@@ -18,6 +19,7 @@
 [[Silver Templars]]
 [[Brazen Consuls]]
 [[Doom Legion]]
-
+[[Nova Legion]]
+[[Vindicators]]
 
 on donnée leur génome au [[Mentor Legion]]

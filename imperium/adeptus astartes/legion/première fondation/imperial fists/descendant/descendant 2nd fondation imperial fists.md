@@ -1,0 +1,5 @@
+[[Black Templars]]
+[[Crimson Fists]]
+[[Fists Exemplar]]
+[[Excoriators]]
+[[Soul Drinkers]]

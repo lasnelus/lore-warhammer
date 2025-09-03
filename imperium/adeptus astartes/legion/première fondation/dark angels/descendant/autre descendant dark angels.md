@@ -1,6 +1,6 @@
 [[Bringers of Judgement]]
 [[Consecrators]]
-[[Cowled Wardens]]
+[[Cowled wardens]]
 [[Disciples of Caliban]]
 [[Guardians of the Covenant]]
 [[Knights of Abhorrence]]
@@ -12,3 +12,4 @@
 [[Blades of Vengeance]]
 [[Knights of Redemption]]
 [[Prime Absolvers]]
+[[Bladekeepers]]

@@ -1,3 +1,3 @@
 [[Sanguinius]]
 
-[[autre descendant]]
+[[autre descendant Blood Angels]]

@@ -5,3 +5,4 @@
 [[Lamenters]]
 [[Minotaurs]]
 [[Sons of Antaeus]]
+[[Tiger Claws]]

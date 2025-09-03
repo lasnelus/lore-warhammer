@@ -1,0 +1,2 @@
+[[Red Talons]]
+[[Brazen Claws]]

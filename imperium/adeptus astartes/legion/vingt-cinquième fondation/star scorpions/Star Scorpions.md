@@ -1,1 +1,1 @@
-Pure
+[[descendant Star Scorpions]]
