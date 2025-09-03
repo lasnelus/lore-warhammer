@@ -13,3 +13,6 @@
 [[Knights of Redemption]]
 [[Prime Absolvers]]
 [[Bladekeepers]]
+[[Angels of Wrath]]
+[[Angels Penitent - Angels Resplendent]]
+
