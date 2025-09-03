@@ -1,0 +1,11 @@
+[[Angels of Fire]]
+[[Angels Porphyr]]
+[[Ashen Claws]]
+[[Brazen Consuls]]
+[[Celebrants]]
+[[Howling Griffons]]
+[[Marines Malevolent]]
+[[Omega Marines]]
+[[Relictors]]
+[[Sons of Guilliman]]
+

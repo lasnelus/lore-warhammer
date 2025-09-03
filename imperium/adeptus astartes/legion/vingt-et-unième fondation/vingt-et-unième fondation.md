@@ -1,0 +1,7 @@
+[[Black Dragons]]
+[[Blood Gorgons]]
+[[Fire Hawks]]
+[[Flame Falcons]]
+[[Lamenters]]
+[[Minotaurs]]
+[[Sons of Antaeus]]

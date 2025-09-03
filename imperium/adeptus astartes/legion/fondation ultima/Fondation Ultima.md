@@ -34,7 +34,7 @@
 [[Silver Drakes]]
 [[Silver Templars]]
 [[Sons of the Phoenix]]
-[[imperium/adeptus astartes/legion/fondation ultima/soul drinkers/Soul Drinkers|Soul Drinkers]]
+[[imperium/adeptus astartes/legion/seconde fondation/Soul Drinkers|Soul Drinkers]]
 [[Storm Reapers]]
 [[Umbral Knights]]
 [[Valiant Blades]]

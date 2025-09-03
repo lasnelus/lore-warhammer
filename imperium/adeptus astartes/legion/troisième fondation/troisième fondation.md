@@ -1,0 +1,6 @@
+[[Angels Erythrean]]
+[[Charnel Guard]]
+[[Dark paladins]]
+[[Death Wardens]]
+[[Executioners]]
+[[Scythes of the Emperor]]

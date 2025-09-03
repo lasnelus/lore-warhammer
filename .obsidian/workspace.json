@@ -4,92 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "7debe8095f04b03d",
-        "type": "split",
+        "id": "07a81abc9bb3bfaf",
+        "type": "tabs",
         "children": [
           {
-            "id": "07a81abc9bb3bfaf",
-            "type": "tabs",
-            "dimension": 67.35436893203884,
-            "children": [
-              {
-                "id": "77d317d9789484b7",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "6c8b3e90dcf69c5f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "imperium/adeptus astartes/legion/fondation ultima/Fondation Ultima.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Fondation Ultima"
-                }
-              }
-            ]
+            "id": "77d317d9789484b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           },
           {
-            "id": "b9004f660f0d6e2c",
-            "type": "split",
-            "dimension": 32.64563106796117,
-            "children": [
-              {
-                "id": "9a2c2246d8227994",
-                "type": "tabs",
-                "dimension": 50,
-                "children": [
-                  {
-                    "id": "ab8af882fd3fbf38",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Renegade Chapters.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Renegade Chapters"
-                    }
-                  }
-                ]
+            "id": "3b0150d3e9f897b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chaos/chaos astartes/Chaos Astartes.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "928d362e71ac3ef5",
-                "type": "tabs",
-                "dimension": 50,
-                "children": [
-                  {
-                    "id": "066b1a866282f687",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Destroyed-Lost Chapters.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Destroyed-Lost Chapters"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+              "icon": "lucide-file",
+              "title": "Chaos Astartes"
+            }
+          },
+          {
+            "id": "a257aae6ad69d8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "imperium/adeptus astartes/Adeptus Astartes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adeptus Astartes"
+            }
+          },
+          {
+            "id": "10ceae209089bd5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Renegade Chapters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Renegade Chapters"
+            }
+          },
+          {
+            "id": "d01f5990ff3c2cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "imperium/adeptus astartes/legion/dixième fondation/astral claws/Astral Claws.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Astral Claws"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 307.5
   },
   "right": {
     "id": "6b348aa6fb1b20b3",
@@ -249,6 +233,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
@@ -260,42 +245,42 @@
   },
   "active": "77d317d9789484b7",
   "lastOpenFiles": [
-    "Renegade Chapters.md",
-    "imperium/adeptus astartes/legion/fondation ultima/Fondation Ultima.md",
-    "imperium/adeptus astartes/legion/fondation ultima/hammers of nocturne/Hammers of Nocturne.md",
-    "imperium/adeptus astartes/legion/fondation ultima/moon eaters/Moon Eaters.md",
+    "imperium/adeptus astartes/legion/huitième fondation/huitème fondation.md",
+    "imperium/adeptus astartes/legion/première fondation/blood angels/Blood Angels.md",
     "Destroyed-Lost Chapters.md",
-    "imperium/adeptus astartes/legion/première fondation/ultramarines/autre descendant ultramarines.md",
-    "imperium/adeptus astartes/legion/seconde fondation/Soul Drinkers.md",
+    "Renegade Chapters.md",
+    "imperium/adeptus astartes/legion/seconde fondation/seconde fondation.md",
+    "imperium/adeptus astartes/legion/première fondation/blood angels/descendant/autre descendant.md",
+    "imperium/adeptus astartes/legion/première fondation/blood angels/descendant",
+    "imperium/adeptus astartes/legion/fondation inconnue/knights of blood/Knights of blood.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/knights of blood",
+    "imperium/adeptus astartes/legion/fondation inconnue/graven spectres/Graven Spectres.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/graven spectres",
+    "imperium/adeptus astartes/legion/première fondation/raven guard/descendant/autre descendant raven guard.md",
+    "imperium/adeptus astartes/legion/hors fondation/ashen claws/Ashen Claws.md",
+    "imperium/adeptus astartes/legion/hors fondation/hors fondation.md",
+    "imperium/adeptus astartes/legion/hors fondation/ashen claws",
+    "imperium/adeptus astartes/legion/première fondation/raven guard/descendant/Untitled",
+    "imperium/adeptus astartes/legion/première fondation/raven guard/descendant",
+    "imperium/adeptus astartes/legion/fondation inconnue/fondation inconnue.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/crimson castellans/Crimson Castellans.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/crimson castellans",
+    "imperium/adeptus astartes/legion/fondation inconnue/star gorgons/Star Gorgons.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/star gorgons",
+    "imperium/adeptus astartes/legion/fondation inconnue/venom thorns/Venom Thorns.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/venom thorns",
     "chaos/chaos astartes/Chaos Astartes.md",
+    "imperium/adeptus astartes/legion/dix-septième fondation/dix-septième fondation.md",
+    "imperium/adeptus astartes/legion/dix-septième fondation/sons of commodus/Sons of Commodus.md",
+    "imperium/adeptus astartes/legion/dix-septième fondation/sons of commodus",
     "imperium/adeptus astartes/Adeptus Astartes.md",
-    "Untitled.canvas",
-    "Prandium Consul.md",
-    "planete origine/Terra.md",
-    "planete origine/Nocturne.md",
-    "imperium/adeptus astartes/legion/vingt-sixième fondation/mentor legion/Mentor Legion.md",
-    "Night Watch.md",
-    "imperium/adeptus astartes/legion/fondation ultima/castellans of the rift/Castellans of the Rift.md",
-    "imperium/adeptus astartes/legion/hors fondation/brazen consuls/Brazen Consuls.md",
-    "imperium/adeptus astartes/legion/hors fondation/brazen consuls",
-    "imperium/adeptus astartes/legion/fondation ultima/silver templars/Silver Templars.md",
-    "imperium/adeptus astartes/legion/neuvième fondation/angels resplendent/Angels Resplendent.md",
-    "imperium/adeptus astartes/legion/première fondation/ultramarines/descendant 2nd fondations ultramarines.md",
-    "imperium/adeptus astartes/legion/fondation ultima/valiant blades/Valiant Blades.md",
-    "imperium/adeptus astartes/legion/fondation ultima/umbral knights/Umbral Knights.md",
-    "imperium/adeptus astartes/legion/fondation ultima/valiant blades",
-    "imperium/adeptus astartes/legion/fondation ultima/silver drakes/Silver Drakes.md",
-    "imperium/adeptus astartes/legion/fondation ultima/umbral knights",
-    "imperium/adeptus astartes/legion/fondation ultima/rift cobras/Rift Cobras.md",
-    "imperium/adeptus astartes/legion/fondation ultima/silver drakes",
-    "imperium/adeptus astartes/legion/fondation ultima/nemesors/Nemesors.md",
-    "imperium/adeptus astartes/legion/fondation ultima/rift cobras",
-    "imperium/adeptus astartes/legion/fondation ultima/knights of thunder/Knights of Thunder.md",
-    "imperium/adeptus astartes/legion/fondation ultima/nemesors",
-    "imperium/adeptus astartes/legion/fondation ultima/brazen skulls/Brazen Skulls.md",
-    "imperium/adeptus astartes/legion/fondation ultima/knights of thunder",
-    "imperium/adeptus astartes/legion/fondation ultima/brazen skulls",
-    "imperium/adeptus astartes/legion/fondation ultima/black vultures",
-    "imperium/adeptus astartes/legion/fondation ultima/silver templars"
+    "imperium/adeptus astartes/legion/vingt-troisième fondation/vingt-troisième fondation.md",
+    "imperium/adeptus astartes/legion/vingt-quatrième fondation/vingt-quatrième fondation.md",
+    "imperium/adeptus astartes/legion/vingt-sixième fondation/vingt-sixième fondation.md",
+    "imperium/adeptus astartes/legion/vingt-cinquième fondation/vingt-cinquième fondation.md",
+    "imperium/adeptus astartes/legion/vingt-et-unième fondation/vingt-et-unième fondation.md",
+    "imperium/adeptus astartes/legion/treizième fondation/treizième fondation.md",
+    "imperium/adeptus astartes/legion/septième fondation/septième fondation.md",
+    "Untitled.canvas"
   ]
 }
