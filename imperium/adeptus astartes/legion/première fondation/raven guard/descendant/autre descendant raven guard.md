@@ -1,2 +1,6 @@
 [[Ashen Claws]]
 [[Carcharodons]]
+[[Dark Eagles]]
+[[Death Eagles]]
+[[Death Spectres]]
+[[Flame Eagles]]
