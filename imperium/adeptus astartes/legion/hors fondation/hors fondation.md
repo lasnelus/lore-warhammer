@@ -10,3 +10,4 @@
 [[Sons of Guilliman]]
 [[Crimson Knights]]
 [[Golden sons]]
+[[Hammers of Dorn]]

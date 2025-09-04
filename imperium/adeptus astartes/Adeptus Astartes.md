@@ -470,20 +470,3 @@ Chaques, des 20 légions d'origine était dirigée par un primarch
 [[Wolfspear]]
 [[Wrathhost]]
 [[Xerus Legion]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

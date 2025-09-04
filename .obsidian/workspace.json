@@ -139,8 +139,7 @@
               "title": "fondation inconnue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,11 +295,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d20289055726673",
+  "active": "4170f726fb474018",
   "lastOpenFiles": [
-    "imperium/adeptus astartes/legion/fondation inconnue/griffons of repentance/Griffons of Repentance.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/fondation inconnue.md",
+    "imperium/adeptus astartes/legion/première fondation/ultramarines/descendant/autre descendant ultramarines.md",
     "imperium/adeptus astartes/Adeptus Astartes.md",
+    "imperium/adeptus astartes/legion/première fondation/imperial fists/descendant/autre descendant Imperial Fists.md",
+    "imperium/adeptus astartes/legion/hors fondation/hors fondation.md",
+    "imperium/adeptus astartes/legion/hors fondation/hammers of dorn/Hammers of Dorn.md",
+    "imperium/adeptus astartes/legion/hors fondation/hammers of dorn",
+    "imperium/adeptus astartes/legion/fondation inconnue/fondation inconnue.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/halo dragons/Halo Dragons.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/halo dragons",
+    "imperium/adeptus astartes/legion/fondation inconnue/guardians of the covenant/Guardians of the Covenant.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/guardians of celeres/Guardians of Celeres.md",
+    "imperium/adeptus astartes/legion/fondation inconnue/guardians of celeres",
+    "imperium/adeptus astartes/legion/fondation inconnue/griffons of repentance/Griffons of Repentance.md",
     "imperium/adeptus astartes/legion/fondation inconnue/griffons of repentance",
     "imperium/adeptus astartes/legion/fondation inconnue/griffon lords/Griffon Lords.md",
     "imperium/adeptus astartes/legion/fondation inconnue/griffon lords",
@@ -315,25 +324,15 @@
     "imperium/adeptus astartes/legion/fondation inconnue/grail guard",
     "imperium/adeptus astartes/legion/fondation inconnue/gore golems/Gore Golems.md",
     "imperium/adeptus astartes/legion/fondation inconnue/gore golems",
-    "imperium/adeptus astartes/legion/hors fondation/hors fondation.md",
     "imperium/adeptus astartes/legion/hors fondation/golden sons/Golden sons.md",
     "imperium/adeptus astartes/legion/hors fondation/golden sons",
     "imperium/adeptus astartes/legion/fondation inconnue/golden paladins/golden paladins.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/golden paladins",
     "imperium/adeptus astartes/legion/fondation inconnue/golden halos/Golden Halos.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/golden halos",
     "imperium/adeptus astartes/legion/fondation inconnue/golden gryphons/Golden Gryphons.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/golden gryphons",
     "imperium/adeptus astartes/legion/fondation inconnue/golden blades/Golden Blades.md",
     "imperium/adeptus astartes/legion/fondation inconnue/gilded sons/Gilded Sons.md",
     "imperium/adeptus astartes/legion/seconde fondation/Chapitre Genesis.md",
     "imperium/adeptus astartes/legion/fondation inconnue/furor marines/Furor Marines.md",
-    "imperium/adeptus astartes/legion/fondation ultima/Fondation Ultima.md",
-    "imperium/adeptus astartes/legion/fondation ultima/fulminators/Fulminators.md",
-    "imperium/adeptus astartes/legion/première fondation/ultramarines/descendant/autre descendant ultramarines.md",
-    "imperium/adeptus astartes/legion/seconde fondation/Flesh Tearers.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/flesh eaters/Flesh Eaters.md",
-    "imperium/adeptus astartes/legion/fondation inconnue/flames of aries/Flames of Aries.md",
     "Untitled.canvas"
   ]
 }
