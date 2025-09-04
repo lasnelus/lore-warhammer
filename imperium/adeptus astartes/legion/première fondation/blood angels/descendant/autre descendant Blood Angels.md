@@ -18,3 +18,4 @@
 [[Blood Scythes]]
 [[Carmine Blades]]
 [[Charnel Guard]]
+[[Crimson Swords]]
