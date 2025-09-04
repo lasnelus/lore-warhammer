@@ -13,3 +13,8 @@
 [[Angels Numinous]]
 [[Angels of Light]]
 [[Atlantian Spears]]
+[[Blood Dragons]]
+[[Blood Legion]]
+[[Blood Scythes]]
+[[Carmine Blades]]
+[[Charnel Guard]]

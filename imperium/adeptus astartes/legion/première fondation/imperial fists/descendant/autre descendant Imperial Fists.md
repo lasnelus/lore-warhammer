@@ -1,3 +1,5 @@
 [[Astral Knights]]
 [[Executioners]]
 [[Fists Exemplar]]
+[[Celestials]]
+[[Celestial Lions]]

@@ -21,5 +21,6 @@
 [[Doom Legion]]
 [[Nova Legion]]
 [[Vindicators]]
+[[Castellans of the Rift]]
 
 on donnée leur génome au [[Mentor Legion]]
