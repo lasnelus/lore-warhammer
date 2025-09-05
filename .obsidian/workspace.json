@@ -155,12 +155,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adeptus astartes/legion/fondation inconnue/fondation inconnue.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fondation inconnue"
+              "title": "README"
             }
           }
         ],
@@ -336,8 +336,8 @@
   },
   "active": "d01f5990ff3c2cef",
   "lastOpenFiles": [
-    "README.md",
     "imperium/adeptus astartes/legion/fondation inconnue/fondation inconnue.md",
+    "README.md",
     "imperium/adeptus astartes/Adeptus Astartes.md",
     "imperium/adeptus astartes/legion/fondation inconnue/hawk lords/Hawk Lords.md",
     "imperium/adeptus astartes/legion/fondation inconnue/hawk lords",
