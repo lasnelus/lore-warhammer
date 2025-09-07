@@ -4,3 +4,4 @@
 [[Death Eagles]]
 [[Death Spectres]]
 [[Flame Eagles]]
+[[Imperial Talons]]

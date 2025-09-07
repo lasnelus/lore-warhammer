@@ -23,5 +23,6 @@
 [[Vindicators]]
 [[Castellans of the Rift]]
 [[Heralds of Ultramar]]
+[[Imperius Reavers]]
 
 on donnée leur génome au [[Mentor Legion]]
