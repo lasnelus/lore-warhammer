@@ -231,7 +231,7 @@ Chaques, des 20 légions d'origine était dirigée par un primarch
 [[Honoured Sons]]
 [[Hospitallers]]
 [[Hound Skulls]]
-[[Hounds od Demos]]
+[[Hounds of Demos]]
 [[Howling Griffons]]
 [[Ice Bears]]
 [[Immortal Hearts]]
@@ -469,4 +469,3 @@ Chaques, des 20 légions d'origine était dirigée par un primarch
 [[Widowmakers]]
 [[Wolfspear]]
 [[Wrathhost]]
-[[Xerus Legion]]

@@ -22,5 +22,6 @@
 [[Nova Legion]]
 [[Vindicators]]
 [[Castellans of the Rift]]
+[[Heralds of Ultramar]]
 
 on donnée leur génome au [[Mentor Legion]]
