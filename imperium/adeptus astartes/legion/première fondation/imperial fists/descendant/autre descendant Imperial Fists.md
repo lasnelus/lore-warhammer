@@ -14,3 +14,5 @@
 [[Hospitallers]]
 [[White Templars]]
 [[Invaders]]
+[[Jade Paladins]]
+[[Knights of Dorn]]

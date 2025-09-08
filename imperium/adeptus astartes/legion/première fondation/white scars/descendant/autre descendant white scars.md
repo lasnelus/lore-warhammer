@@ -2,3 +2,4 @@
 [[Dark Hunters]]
 [[Wrathhost]]
 [[Iron Talons]]
+[[Jade Scorpions]]

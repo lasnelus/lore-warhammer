@@ -273,7 +273,6 @@ Chaques, des 20 légions d'origine était dirigée par un primarch
 [[Jade Paladins]]
 [[Jade Scorpions]]
 [[Knights Cerulean]]
-[[Knights Errant]]
 [[Knights of Abhorrence]]
 [[Knights of Byzantium]]
 [[Knights of Doom]]
