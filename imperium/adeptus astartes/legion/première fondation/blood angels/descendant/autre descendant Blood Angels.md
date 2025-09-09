@@ -25,3 +25,4 @@
 [[Flesh Eaters]]
 [[Golden sons]]
 [[Grail Guard]]
+[[Lamenters]]

@@ -16,3 +16,4 @@
 [[Angels of Wrath]]
 [[Angels Penitent - Angels Resplendent]]
 [[Knights of the Crimson Order]]
+[[Knights of the Shrouded Skull]]

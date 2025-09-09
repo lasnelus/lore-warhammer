@@ -24,5 +24,6 @@
 [[Castellans of the Rift]]
 [[Heralds of Ultramar]]
 [[Imperius Reavers]]
+[[Marines Mordant]]
 
 on donnée leur génome au [[Mentor Legion]]

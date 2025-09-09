@@ -3,3 +3,4 @@
 [[Wrathhost]]
 [[Iron Talons]]
 [[Jade Scorpions]]
+[[Mantis Warriors]]
