@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"24d2e8c0d073e2d0","type":"file","file":"imperium/Empereur.md","x":-127,"y":-320,"width":186,"height":50},
+		{"id":"55729e165df2e040","type":"file","file":"imperium/inquisition/Inquisition.md","x":-320,"y":-140,"width":174,"height":50},
+		{"id":"8a6c98e6f502e068","x":0,"y":-140,"width":294,"height":53,"type":"file","file":"imperium/high lords of terra/High Lords Of Terra.md"}
+	],
+	"edges":[
+		{"id":"26c3aba6f304e406","fromNode":"24d2e8c0d073e2d0","fromSide":"bottom","toNode":"55729e165df2e040","toSide":"top"},
+		{"id":"2ae11b485b9dbda6","fromNode":"24d2e8c0d073e2d0","fromSide":"bottom","toNode":"8a6c98e6f502e068","toSide":"top"}
+	]
+}
