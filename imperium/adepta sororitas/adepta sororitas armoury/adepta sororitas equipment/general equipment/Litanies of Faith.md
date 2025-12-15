@@ -1,0 +1,3 @@
+The Litanies of Faith contain the teachings of the Ecclesiarchy and fill the loyal servants of the Emperor with a righteous zeal when read aloud. It includes the first sermon of Sebastian Thor. Partly because it would take too long to write down all of the Litanies, whenever brought onto the battlefield the bearer brings only certain inspirational hymns and chants to inspire faith.
+
+Today, only a single copy of Thor's litanies remain which is kept in a stasis vault beneath the Convent Prioris on Terra and released only with the sanction of the Ecclesiarch itself. It is one of the holiest relics in the Ecclesiarchy's charge.

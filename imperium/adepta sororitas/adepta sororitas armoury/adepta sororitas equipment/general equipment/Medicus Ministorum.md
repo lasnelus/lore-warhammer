@@ -1,0 +1,1 @@
+A Medicus Ministorum is a medical field kit used by members of the Adeptus Ministorum. Contained within a rare scentwood box are a collection of relics which are used to cure all manner of injuries and ailments.

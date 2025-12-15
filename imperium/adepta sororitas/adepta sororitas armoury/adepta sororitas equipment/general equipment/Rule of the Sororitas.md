@@ -1,0 +1,1 @@
+The **Rule of the Sororitas** are small books carried by the Sisters of Battle which detail the traditions and beliefs of the Adepta Sororitas. Many Sisters customise the books to reflect the individual nature of any given Sororitas Order.

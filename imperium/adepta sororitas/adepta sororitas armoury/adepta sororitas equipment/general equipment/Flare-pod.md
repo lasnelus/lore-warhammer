@@ -1,0 +1,1 @@
+The **Flare-pod** is a small silver sphere, used to illuminate darkened areas. When activated, the sphere glows and casts bright light in all directions.

@@ -1,0 +1,1 @@
+**Dermal Pads** are small adhesive discs, implanted with pain nullifying agents.

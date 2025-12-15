@@ -1,0 +1,1 @@
+**Blessed Standards** are a type of banner used by the Adepta Sororitas. They are blessed thrice by the [[Prioress]] of their convent before they appear in combat.
