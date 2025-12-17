@@ -1,0 +1,1 @@
+**Avenging Angels** are the spirits of fallen Sisters of Battle, summoned to fight by their Sisters' side once again by the use of a Canoness's Act of Faith ability Ascension. In battle they seek vengeance against the faithful's enemies for a short time, before disappearing back to the ether.
