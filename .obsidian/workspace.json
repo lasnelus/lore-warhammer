@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adepta sororitas/troops/Arco-flagellant/Arco-flagellant.md",
+                "file": "imperium/adepta sororitas/troops/canoness/known canonesses/Gertra Swinnlan - Order of the Bloody Rose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arco-flagellant"
+              "title": "Gertra Swinnlan - Order of the Bloody Rose"
             }
           },
           {
@@ -192,12 +192,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83dddb176065fd70",
+  "active": "2fb5c21850dcd11e",
   "lastOpenFiles": [
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Elivia - Order of Our Martyred Lady.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Gertra Swinnlan - Order of the Bloody Rose.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Elana.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Danicia - Order of the Bloody Rose.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Dorothea - Order of the Maurdlin Countenance.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Corinn Hrethnar - Order of the Bloody Rose.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Chrisima - Order of the Argent Shroud.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Aurea - Order of the Valorous Heart.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Aspira - Order of the Bloody Rose.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Astra - Order of the Silver Lilly.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Angelina.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Agnes - Order of Our Martyred Lady.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Ada.md",
+    "imperium/adepta sororitas/troops/Arco-flagellant/Arco-flagellant.md",
     "imperium/adepta sororitas/troops/canoness/known canonesses",
     "imperium/adepta sororitas/troops/canoness",
     "imperium/adepta sororitas/troops/avenging angel/Avenging Angel.md",
-    "imperium/adepta sororitas/troops/Arco-flagellant/Arco-flagellant.md",
     "imperium/adepta sororitas/troops/avenging angel",
     "imperium/adepta sororitas/troops/Arco-flagellant/notable arco-flagellant/Simeon 38X.md",
     "imperium/adepta sororitas/troops/Arco-flagellant/notable arco-flagellant/Rasselas X-42.md",
@@ -212,24 +225,11 @@
     "imperium/adepta sororitas/troops/battle sister/squad types/celestian squad/Celestian Squad.md",
     "imperium/adepta sororitas/troops/battle sister/Battle Sister.md",
     "imperium/adepta sororitas/troops/battle sister/squad types/seraphim squad/notable seraphim/Amelda.md",
-    "imperium/adepta sororitas/troops/battle sister/squad types/seraphim squad/notable seraphim/Elenor Verity.md",
     "imperium/adepta sororitas/troops/battle sister/squad types/seraphim squad/notable seraphim",
     "imperium/adepta sororitas/troops/battle sister/squad types/seraphim squad",
     "imperium/adepta sororitas/troops/battle sister/squad types/retributor squad",
     "imperium/adepta sororitas/troops/battle sister/squad types/dominion squad",
     "imperium/adepta sororitas/troops/battle sisters/squad types/celestian squad/celestian superior",
-    "imperium/adepta sororitas/orders of the adepta sororitas/order militants",
-    "imperium/adepta sororitas/troops/battle sister/squad types/celestian squad/notable celestians/Sister Oleande.md",
-    "imperium/adepta sororitas/troops/battle sister/squad types/dominion squad/Dominion Squad.md",
-    "imperium/adepta sororitas/troops/battle sister/squad types/celestian squad/notable celestians/Sister Miriya.md",
-    "imperium/adepta sororitas/troops/battle sister/squad types/celestian squad/notable celestians/Sister Martika.md",
-    "imperium/adepta sororitas/troops/battle sister/squad types/celestian squad/notable celestians/Celestian Sacresant Aveline.md",
-    "imperium/adepta sororitas/troops/battle sister/squad types/celestian squad/notable celestians/Celestian Superior Erhynica.md",
-    "imperium/adepta sororitas/troops/battle sister/squad types/retributor squad/Retributor Squad.md",
-    "imperium/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/piety class cruiser/Vessel of Divinity.md",
-    "imperium/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/battleships/St. Dominica's Vengeance.md",
-    "imperium/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/battleships/Fiery Heart.md",
-    "imperium/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/battleships/Martyr's Halo.md",
     "Diagramme sans nom.drawio.png",
     "imperium/adeptus administratum/astra militarum/Untitled.canvas",
     "Untitled.canvas"
