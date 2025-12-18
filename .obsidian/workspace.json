@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adepta sororitas/troops/canoness/known canonesses/Lunaria - Order of the Vermilion Hand.md",
+                "file": "imperium/adepta sororitas/troops/canoness/known canonesses/Webb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lunaria - Order of the Vermilion Hand"
+              "title": "Webb"
             }
           },
           {
@@ -192,10 +192,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fb5c21850dcd11e",
+  "active": "83dddb176065fd70",
   "lastOpenFiles": [
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Lucretia.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Veridyan.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Webb.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Temperance Blaise.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Sybria.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Soifa.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Serita - Order of Our Martyred Lady.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Selicia - Order of Our Martyred Lady.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Selena Agna - Order of the Sacred Rose.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Sarida - Order of the Ebon Chalice.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Sariah - Order of the Sacred Rose.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Rosemaera Grace - Order of the Argent Shroud.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Praxedes - Order of Our Martyred Lady.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Persphone Sheng - Order of the Ebon Chalice.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Mari - Order of the Bloody Rose.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Magda Grace - Order of the Sacred Rose.md",
     "imperium/adepta sororitas/troops/canoness/known canonesses/Lunaria - Order of the Vermilion Hand.md",
+    "imperium/adepta sororitas/troops/canoness/known canonesses/Lucretia.md",
     "imperium/adepta sororitas/troops/canoness/known canonesses/Larenta - Order of Our Martyred Lady.md",
     "imperium/adepta sororitas/troops/canoness/known canonesses/Junith Eruita - Order of Our Martyred Lady.md",
     "imperium/adepta sororitas/troops/canoness/known canonesses/Joghilde - Order of Our Martyred Lady.md",
@@ -205,24 +220,9 @@
     "imperium/adepta sororitas/troops/canoness/known canonesses/Gracia Emmanuelle - Order of the Argent Shroud.md",
     "imperium/adepta sororitas/troops/canoness/known canonesses/Gertra Swinnlan - Order of the Bloody Rose.md",
     "imperium/adepta sororitas/troops/canoness/known canonesses/Elivia - Order of Our Martyred Lady.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Elana.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Danicia - Order of the Bloody Rose.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Dorothea - Order of the Maurdlin Countenance.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Corinn Hrethnar - Order of the Bloody Rose.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Chrisima - Order of the Argent Shroud.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Aurea - Order of the Valorous Heart.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Aspira - Order of the Bloody Rose.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Astra - Order of the Silver Lilly.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Angelina.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Agnes - Order of Our Martyred Lady.md",
-    "imperium/adepta sororitas/troops/canoness/known canonesses/Ada.md",
-    "imperium/adepta sororitas/troops/Arco-flagellant/Arco-flagellant.md",
     "imperium/adepta sororitas/troops/canoness/known canonesses",
     "imperium/adepta sororitas/troops/canoness",
-    "imperium/adepta sororitas/troops/avenging angel/Avenging Angel.md",
     "imperium/adepta sororitas/troops/avenging angel",
-    "imperium/adepta sororitas/troops/Arco-flagellant/notable arco-flagellant/Simeon 38X.md",
-    "imperium/adepta sororitas/troops/Arco-flagellant/notable arco-flagellant/Rasselas X-42.md",
     "imperium/adepta sororitas/troops/Arco-flagellant/notable arco-flagellant",
     "imperium/adepta sororitas/troops/Arco-flagellant",
     "imperium/adepta sororitas/troops/battle sister/squad types/seraphim squad/notable seraphim",
