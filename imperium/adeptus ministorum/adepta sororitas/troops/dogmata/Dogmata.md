@@ -1,0 +1,3 @@
+A **Dogmata** is the spiritual exemplar of the Adepta Sororitas and is a personification of righteousness. She leads her fellow Sororitas in war hymns as the Dogmata advances stoically into battle.
+
+Wielding a Mace of the Righteous, a Dogmata is on the battlefield, the Adepta Sororitas will know that their every deed is being watched – and judged – so they’ll perform whatever duty has been assigned to them with utmost determination and vigour. For the Dogmata also holds the power to condemn any Sororitas to join the Repentia – or, worse still, be consigned to a Mortifier– to seek atonement or redemption in death.
