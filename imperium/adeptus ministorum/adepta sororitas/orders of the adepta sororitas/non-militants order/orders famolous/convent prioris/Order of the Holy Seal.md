@@ -1,0 +1,1 @@
+The **Order of the Holy Seal** is an [[Orders Famulous|Order Famulous]]. It is part of the **Convent Prioris**.

@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7aef13a6d5f62363",
+            "id": "bcceb1dabfd56fab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/Orders Dialogus.md",
+                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/Orders Hospitaller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orders Dialogus"
-            }
-          },
-          {
-            "id": "e43dc9577a007344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meritia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meritia"
+              "title": "Orders Hospitaller"
             }
           },
           {
@@ -44,23 +30,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "aa43eb61b9ab25a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Veiled Mantle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Order of the Veiled Mantle"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,44 +188,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa43eb61b9ab25a3",
+  "active": "bcceb1dabfd56fab",
   "lastOpenFiles": [
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/Orders Famolous.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/order of the torch/Order of the Torch.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/lesser orders hopitaller/Order of the Silent Vow.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/lesser orders hopitaller/Obsidian Order.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters/Lucia.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters/Rosa.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters/Ereutha.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/order of the torch/known member/Yimeng.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/order of the torch/known member/Untitled",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/order of the torch/known member",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/order of the torch",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/Order of the Cleansing Water.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent sanctorum/order of serenity/Order of Serenity.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent sanctorum/order of serenity/known member/Verity Catena.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent sanctorum/order of serenity/known member",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent sanctorum/order of serenity",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent sanctorum/Order of the Eternal Candle.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/Orders Hospitaller.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/lesser orders hopitaller",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent sanctorum",
+    "Chirurgeon-General.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/Orders Famulous.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent prioris/Order of the Sacred Coin.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/Orders Famolous.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent sanctorum/Order of the Gate.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent sanctorum/Order of the Key.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent prioris/Order of the Holy Seal.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent prioris/Order of the Lexicon.md",
     "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Veiled Mantle.md",
     "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Shining Path.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Opening Eye.md",
     "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Hallowed Glass.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent sanctorum/Order of the Key.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent sanctorum/Order of the Gate.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent prioris/Order of the Sacred Coin.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent prioris/Order of the Holy Seal.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/Orders Famolous.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent sanctorum",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent prioris",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent prioris/Order of the Lexicon.md",
-    "Vault of Origins.md",
     "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/Orders Dialogus.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/notable dialogus/Weldina.md",
     "Meritia.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent sanctorum/order of the holy word/Order of the Holy Word.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/notable dialogus/Heda.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/notable dialogus",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent sanctorum/order of the holy word/known member/Palmiro.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent sanctorum/order of the holy word/known member",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent sanctorum/order of the holy word",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent sanctorum/Order of the Quill.md",
-    "Vangore's Folly.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent prioris/Order of the Sacred Oath.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/other orders dialogus/order of the fractured cipher/Order of the Fractured Cipher.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/other orders dialogus/order of the fractured cipher/known member/Sister Agentha.md",
-    "Sister Agentha.md",
-    "Honoria.md",
-    "Librarian Ezekiel.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/other orders dialogus/order of the fractured cipher/known member",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/other orders dialogus/order of the fractured cipher",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/other orders dialogus",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Opening Eye.md",
     "Diagramme sans nom.drawio.png",
     "imperium/adeptus administratum/astra militarum/Untitled.canvas",
     "Untitled.canvas"

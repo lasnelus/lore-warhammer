@@ -1,0 +1,5 @@
+**Ereutha** was a **Hospitaller** who was affiliated with the[[Order of the Sacred Rose]], during the [[Charadon Campaign]]. She was later declared an** Imperial Saint**, while the conflict still raged, after she was killed defending the [[Metalica System]] **Hive World**, [[Munis Ferrum]].
+
+### History
+---
+This was after Ereutha miraculously survived being shot several times with **Rad Weaponry**, while saving wounded Sororitas and citizens in [[Munis Ferrum]]'s invaded **Hive Muvo**s. Many **Imperials** claimed the Emperor himself was shielding her and when Ereutha was finally killed months later, the Hospitaller was declared an **Imperial Saint**. Soon, relics of Saint Ereutha were being traded and sold across the [[Charadon Sector]], with the promise that they would keep away plague and contagion. Among the relics that are alleged to be from Saint Ereutha, are three skulls, five femurs and bones that could make thirty-seven fingers.

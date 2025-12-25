@@ -1,0 +1,3 @@
+**Yimeng** was a **Hospitaller** of the [[Order of the Torch]], who was martyred and declared an **Imperial Saint**.
+
+Her bones were laid to rest in a crypt beneath the **Convent Prioris**, but they disappeared sometime after the** Great Rift**'s creation. Pieces of Yimeng's remains were later found on several **Imperium** worlds and many claim the madness spread by the Great Rift is banished in their presence.

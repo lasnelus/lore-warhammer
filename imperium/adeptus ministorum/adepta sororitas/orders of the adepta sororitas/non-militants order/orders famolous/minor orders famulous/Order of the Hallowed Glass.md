@@ -1,0 +1,1 @@
+The **Order of the Hallowed Glass** is an [[Orders Famulous|Order Famulous]] of the **Adepta Sororitas**. It was created by the **Ecclesiarchy** in the aftermath of the [[Macharian Crusade]] to monitor new Highborn in conquered worlds of the [[Macharian Sector]].
