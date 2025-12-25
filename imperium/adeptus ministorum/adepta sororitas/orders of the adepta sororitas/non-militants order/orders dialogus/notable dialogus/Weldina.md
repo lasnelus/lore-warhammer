@@ -1,0 +1,1 @@
+**Weldina** is an **Adepta Sororitas Dialogous**, who is currently serving in [[Eleanor Blanche|Canoness Eleanor Blanche]]'s [[Order of the Argent Shroud|Argent Shroud]] Crusade Force.

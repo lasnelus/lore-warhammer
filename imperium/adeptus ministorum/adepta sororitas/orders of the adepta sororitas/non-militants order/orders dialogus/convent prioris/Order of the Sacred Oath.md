@@ -1,0 +1,1 @@
+The **Order of the Sacred Oath** is an **Order Dialogous**. It is part of the **Convent Prioris**.

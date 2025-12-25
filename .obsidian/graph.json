@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"imperium/adeptus ministorum/adepta sororitas\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -12,11 +12,11 @@
   "textFadeMultiplier": -1.6,
   "nodeSizeMultiplier": 1.27395833333333,
   "lineSizeMultiplier": 0.865625,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.0104166666666667,
   "repelStrength": 6.97916666666667,
   "linkStrength": 0.447916666666667,
   "linkDistance": 42,
-  "scale": 0.03590926640144958,
+  "scale": 0.13873223932666148,
   "close": true
 }

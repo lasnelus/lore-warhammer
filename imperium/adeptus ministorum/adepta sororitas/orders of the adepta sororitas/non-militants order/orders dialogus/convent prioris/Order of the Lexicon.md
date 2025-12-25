@@ -1,0 +1,3 @@
+The **Order of the Lexicon** is an Order of the**Order Dialogous**. It is part of the **Convent Prioris**.
+
+In **M41**, the **Order of the Lexicon** was called upon to study a cache of ancient texts discovered on the Imperial world [[Vangore's Folly]]. After more than a decade, the Order reported their findings to the Ecclesiarchy and Vangore's Folly was later destroyed by the [[Order of the Ebon Chalice]].

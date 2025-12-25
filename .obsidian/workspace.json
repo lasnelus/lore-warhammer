@@ -4,25 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5116b68e33cb0494",
+        "id": "b3ff46ce1dc986a9",
         "type": "tabs",
         "children": [
           {
-            "id": "4170f726fb474018",
+            "id": "7aef13a6d5f62363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adeptus ministorum/adepta sororitas/troops/palatine/Palatine.md",
+                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/Orders Dialogus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Palatine"
+              "title": "Orders Dialogus"
             }
           },
           {
-            "id": "df5457c03d39a5b6",
+            "id": "e43dc9577a007344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meritia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meritia"
+            }
+          },
+          {
+            "id": "9fe78f35817065fa",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -32,21 +46,21 @@
             }
           },
           {
-            "id": "23d48696fda44f6e",
+            "id": "aa43eb61b9ab25a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adeptus ministorum/adepta sororitas/troops/dogmata/Dogmata.md",
+                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Veiled Mantle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dogmata"
+              "title": "Order of the Veiled Mantle"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,46 +217,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23d48696fda44f6e",
+  "active": "aa43eb61b9ab25a3",
   "lastOpenFiles": [
-    "imperium/adeptus ministorum/adepta sororitas/troops/Troops.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/dogmata/Dogmata.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/dogmata",
-    "imperium/adeptus ministorum/adepta sororitas/troops/battle sister/Battle Sister.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/palatine/known palatines/Uwe Bajola.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/palatine/Palatine.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/palatine/known palatines/Theria.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/palatine/known palatines/Emillia Nihlus.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/palatine/known palatines/Erika Luminas.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/palatine/known palatines/Gracia Emmanuelle.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/palatine/known palatines/Helia.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/palatine/known palatines",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas weaponry/close combat weapons/Staff of Belief.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/palatine",
-    "imperium/adeptus ministorum",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/super-heavy behicles/Super-Heavy Vehicles.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/super-heavy behicles/Mobile Cathedral.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/super-heavy behicles",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/piety class cruiser/Vessel of Divinity.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/mars class battlecruiser/God-Emperor's Mantle.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/invasion cathedrum/Daughter of the Emperor.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/dauntless class light cruiser/Unbroken Vow.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/battleships/St. Dominica's Vengeance.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/battleships/Martyr's Halo.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/battleships/Fiery Heart.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/piety class cruiser",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/mars class battlecruiser",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/Fleet.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/invasion cathedrum",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/dauntless class light cruiser",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/fleet/battleships",
-    "imperium/adeptus ministorum/adepta sororitas/troops/battle sister/squad types/seraphim squad/notable seraphim/Elenor Verity.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/battle sister/squad types/seraphim squad/notable seraphim/Amelda.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/battle sister/squad types/celestian squad/notable celestians/Sister Oleande.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/battle sister/squad types/celestian squad/notable celestians/Sister Miriya.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/battle sister/squad types/celestian squad/notable celestians/Sister Martika.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/Orders Famolous.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Veiled Mantle.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Shining Path.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Opening Eye.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous/Order of the Hallowed Glass.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent sanctorum/Order of the Key.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent sanctorum/Order of the Gate.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent prioris/Order of the Sacred Coin.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent prioris/Order of the Holy Seal.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/Orders Famolous.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/minor orders famulous",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent sanctorum",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/convent prioris",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent prioris/Order of the Lexicon.md",
+    "Vault of Origins.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/Orders Dialogus.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/notable dialogus/Weldina.md",
+    "Meritia.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent sanctorum/order of the holy word/Order of the Holy Word.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/notable dialogus/Heda.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/notable dialogus",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent sanctorum/order of the holy word/known member/Palmiro.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent sanctorum/order of the holy word/known member",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent sanctorum/order of the holy word",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent sanctorum/Order of the Quill.md",
+    "Vangore's Folly.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/convent prioris/Order of the Sacred Oath.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/other orders dialogus/order of the fractured cipher/Order of the Fractured Cipher.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/other orders dialogus/order of the fractured cipher/known member/Sister Agentha.md",
+    "Sister Agentha.md",
+    "Honoria.md",
+    "Librarian Ezekiel.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/other orders dialogus/order of the fractured cipher/known member",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/other orders dialogus/order of the fractured cipher",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders dialogus/other orders dialogus",
     "Diagramme sans nom.drawio.png",
-    "Untitled.canvas",
-    "imperium/adeptus administratum/astra militarum/Untitled.canvas"
+    "imperium/adeptus administratum/astra militarum/Untitled.canvas",
+    "Untitled.canvas"
   ]
 }

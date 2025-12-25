@@ -1,0 +1,7 @@
+The Vault of Origins is a site located miles beneath the Ecclesiarchal Palace on Terra.
+
+### History
+---
+Consisting of miles upon miles of dusty corridors, it is considered one of the most secret and inaccessible locations within the Imperium of Man. Within it are countless banks of ancient stasis generators that create a time-halting field that protects the many texts within, which would otherwise crumble into dust on contact with air. The secrecy surrounding the Vault means that only the most senior personnel know of its existence and entry into its chambers is not governed by the Ecclesiarch. In fact, several Ecclesiarchs were never aware of the Vault of Origin's existence and others were denied entry after learning of it. Whispers speak of an ancient order of sentinels, whose own origins are lost to the mist of time, being the group that is responsible for allowing others entry. It is said that within these chambers reside original hand-written texts of the Imperial Creed as well as forbidden knowledge that is unknown to the greater Imperium, such as first-hand accounts of the Horus Heresy, the Age of Apostasy and a thousand other such tragedies.
+
+Within the furthest libraries of the Vault contains the earliest recorded secrets that are only imparted to the highest officials in the Ecclesiarchy. It is known that even the Inquisition is denied entry into its chambers in the fear that their search for knowledge and truth can lead to the destruction of the Ministorum's glorious past.

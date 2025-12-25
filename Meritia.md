@@ -1,0 +1,5 @@
+Meritia was a Sister Superior of the [[Orders Dialogus]] and Sister Senioris of the [[Order of the Lost Rosetta]] based in the outpost-monastery on [[Rahe's Paradise]], who served under [[Lucillian|Canoness Lucillian]] in late **M41**.
+
+She was responsible for translating an **alien** tome known as [[The Awakening]], written by the **Eldar Farseer Lsathranil of Ulthanesh Shelwé**. She had the information transmitted to **Terra**, but also sent [[Lorquai|Inquisitor Lorquai]] a copy of her initial translations, accompanied by annotations highlighting her concern over a section of the tome that detailed the reemergence of a supposedly dead race which the Eldar referred to as the "**Yngir**".
+
+She also assisted [[Jonas Urelie|Father Librarian Jonas Urelie]] of the **Blood Ravens** in his research into the history of his chapter and the [[Apocrypha of the Un-Founding]].
