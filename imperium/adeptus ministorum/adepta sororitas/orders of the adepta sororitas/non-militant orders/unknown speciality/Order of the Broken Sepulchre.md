@@ -1,0 +1,3 @@
+The **Order of the Broken Sepulchre**, also known as the **Sisters of Death**, are a unique Order of the **Adepta Sororitas**.
+
+The Order is charged with overseeing the **Cemetery World** of [[Letum]]. This Order wears grey robes, has skull tattoos, and practices unfamiliar, unsettling funeral rites such as having lightning strike the coffins of their deceased. All members of the order are young, which is seen as highly suspicious by the rest of the Adepta Sororitas.

@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders planxilium/Orders Planxillium.md",
+                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orders Planxillium"
+              "title": "Order"
             }
           },
           {
-            "id": "9fe78f35817065fa",
+            "id": "1ee12809744f6bc0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,45 +189,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcceb1dabfd56fab",
+  "active": "1c5e50c571e43dab",
   "lastOpenFiles": [
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders madriga/Orders Madriga.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders planxilium/Orders Planxillium.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders planxilium",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/order fenestrus/Order Fenestrus.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders madriga",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders pronatus/Orders Pronatus.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/order fenestrus",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders pronatus/Order of the Eternal Gate.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders pronatus/known member/Aestred Thurga.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders pronatus/Order of the Blessed Enquiry.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders pronatus/Order of the August Vigil.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders pronatus/known member",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/Orders Hospitaller.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters/Remidia Nutrix.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas equipment/relics/Triumph of Saint Katherine.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/unknown speciality/Unknown Specialty.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/Other Types of Order.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/Order.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/Untitled.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/Orders Militant.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/feur.md",
+    "Saint Mina.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders planxilium/Orders Planxillium.md",
+    "imperium/adeptus ministorum/adepta sororitas/Adepta Sororitas.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/unknown speciality/Order of the Piercing Thorn.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/unknown speciality/Order of the Broken Sepulchre.md",
+    "imperium/adeptus astartes/legion/première fondation/dark angels/Dark angels.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/Orders Dialogus.md",
+    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/aircraft/Arvus Lighter.md",
+    "Vault of Origins.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/unknown speciality",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders vespila/Orders Vespila.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/order",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders vespila",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders pronatus/known member/Aestred Thurga.md",
+    "Equitus XI.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/convent sanctorum/order of the holy word/known member/Palmiro.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders princeps/Orders Princeps.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders sabine/Orders Sabine.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders tarentine/Orders Tarentine.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders tarentine",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders sabine",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders princeps",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders madriga/Orders Madriga.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders planxilium",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/order fenestrus/Order Fenestrus.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders madriga",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders pronatus/Orders Pronatus.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/order fenestrus",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders pronatus/Order of the Eternal Gate.md",
     "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/Untitled.canvas",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders pronatus",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters/Ishani.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters/Sarane.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/order of the torch/Order of the Torch.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/lesser orders hopitaller/Order of the Silent Vow.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/lesser orders hopitaller/Obsidian Order.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters/Lucia.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters/Rosa.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters/Ereutha.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/order of the torch/known member/Yimeng.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/known sisters",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/order of the torch/known member/Untitled",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/order of the torch/known member",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/order of the torch",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent prioris/Order of the Cleansing Water.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent sanctorum/order of serenity/Order of Serenity.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent sanctorum/order of serenity/known member/Verity Catena.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent sanctorum/order of serenity/known member",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders hospitaller/convent sanctorum/Order of the Eternal Candle.md",
-    "Chirurgeon-General.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/orders famolous/Orders Famulous.md",
     "Diagramme sans nom.drawio.png",
     "imperium/adeptus administratum/astra militarum/Untitled.canvas",
     "Untitled.canvas"

@@ -1,0 +1,7 @@
+The **Orders Sabine** are non-militant orders of the **Adepta Sororitas**, and an individual of the Order is referred to as a Sister Sabine.
+
+### Overview
+---
+Due to their operations taking place on the edge of Imperial space, the Orders Sabine are lesser known among **Imperial citizens**. Sisters of the Orders Sabine accompany the [[Missionarus Galaxia]] to help re-integrate newly rediscovered **Human** worlds into the **Imperium of Man** that may oppose their arrival. They do this by infiltrating the communities and preaching the Imperial Creed, establishing themselves as prophets of the **Emperor** and prophesied the coming of the Missionarus. They may also instigate a revolution, leading natives faithful to the Creed in a coup against the world's religious leaders. Through this, and the political workings of Sisters of the [[Orders Famulous]], the [[Missionarus Galaxia]] will arrive to a world readily accepting of the Imperial Creed.
+
+These operations may take many years or even generations, with Sisters Sabine taking on the language, customs, and clothing of the native population. However, following the arrival of the Missionarus, the Sister Sabine will revert to that of a standard Sororitas. Because of these long operations, Sisters Sabine will likely only pilgrim to a Convent once in her lifetime.

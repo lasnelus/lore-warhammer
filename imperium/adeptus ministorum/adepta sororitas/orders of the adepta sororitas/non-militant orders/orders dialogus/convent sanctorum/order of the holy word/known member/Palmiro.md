@@ -1,0 +1,1 @@
+**Palmiro** was a high ranking member of the **Adepta Sororitas** of the [[Order of the Holy Word]] in **M36**. Following the death of [[Alicia Dominica]] there was a crisis as to who should lead the Sisters. the auspices of [[Equitus XI|Ecclesiarch Equitus XI]] she was the first to hold the position of [[Abbess of the Adepta Sororitas]], ruling over the organization.

@@ -1,0 +1,3 @@
+The **Orders Princeps** is a minor non-militant Order of the **Adepta Sororitas**.
+
+Based only from [[Ophelia VII]], these scholarly Sisters are augmented with neural interfaces to monitor the **Cardinals** and their debates within the [[Holy Synod]]. Created as a result of [[Sebastian Thor]]'s reforms, they ensure that the rely and dissemination of **Ecclesiastical** law is carried out without deviation, acting as both legal guardians and informants of abuse.
