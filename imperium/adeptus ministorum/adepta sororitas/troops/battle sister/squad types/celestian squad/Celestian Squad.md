@@ -3,7 +3,7 @@
 
 
 ### Notable Celestians
-- [[Celestian Superior Erhynica]]
+- [[Erhynica]]
 - [[Celestian Sacresant Aveline]]
 - [[Sister Martika]]
 - [[Sister Miriya]]

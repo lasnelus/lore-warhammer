@@ -1,0 +1,1 @@
+**Celiya** is an [[Order of the Argent Shroud]] [[Canoness|Canoness Preceptor]], who took part in the [[Argovon Campaign]] as part of the **Indomitus Crusade's Task Force XI**. As the war against the Necron raged, Celiya served in the Task Force's senior command staff as a representative of the **Adepta Sororitas**.
