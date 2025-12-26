@@ -1,0 +1,3 @@
+**Aestred Thurga** is a **Reliquant at Arms** of the **Adepta Sororitas**' [[Order Pronatus]]. In this role, she has dedicated her life to the protection of the one relic above all others - the [[Auto-Tapestry of the Emperor's Judgement]].
+
+After Thurga began defending the relic, the indomitable custodian could be found in the records of some of the Adepta Sororitas' bloodiest battles, where she wielded the mighty [[Blade of Vigil]]. She is accompanied at all times by the **Hagiolater** [[Agathae Dolan]], who records the deeds of those Battle Sisters who fight beside Thurga.

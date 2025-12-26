@@ -1,0 +1,1 @@
+The **Orders Planxilium** is a minor non-militant Order of the **Adepta Sororitas**. The order form thousand-strong processionals leading weeping and wailing pilgrims upon the remembrance and high holy days of Veneris.

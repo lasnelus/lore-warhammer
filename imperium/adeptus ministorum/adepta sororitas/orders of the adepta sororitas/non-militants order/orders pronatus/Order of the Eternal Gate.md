@@ -1,0 +1,1 @@
+The** Order of the Eternal Gate** are a minor **Adepta Sororitas** Order of the [[Orders Pronatus]].

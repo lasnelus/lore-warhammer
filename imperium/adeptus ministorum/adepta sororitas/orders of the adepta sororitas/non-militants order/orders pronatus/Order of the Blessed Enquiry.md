@@ -1,0 +1,1 @@
+The** Order of the Blessed Enquiry** are a minor **Adepta Sororitas** Order of the [[Orders Pronatus]].

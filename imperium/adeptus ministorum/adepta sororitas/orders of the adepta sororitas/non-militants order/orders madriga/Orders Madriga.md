@@ -1,0 +1,1 @@
+The **Orders Madriga** is a minor non-militant Order of the **Adepta Sororitas**. The order provides all-female choirs in **Ecclesiarchy** temples.

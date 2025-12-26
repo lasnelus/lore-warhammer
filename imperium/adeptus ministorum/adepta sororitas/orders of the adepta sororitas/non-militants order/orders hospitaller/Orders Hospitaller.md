@@ -19,11 +19,13 @@ The Orders Hospitaller is overseen by the [[Chirurgeon-General]] and is divide
 	- [[Order of the Cleansing Tide]]
 	- [[Order of the Torch]]
 - Known Lesser Orders include the :
-
-
+	- [[Order of the Silent Vow]]
+	- [[Obsidian Order]]
 ### Known Sisters
 ---
 - [[Lucia]]
 - [[Rosa]]
 - [[Ereutha]]
-- 
+- [[Sarane]]
+- [[Ishani]]
+- [[Remidia Nutrix]]

@@ -1,0 +1,3 @@
+The** Order of the August Vigil** are a minor **Adepta Sororitas** Order of the [[Orders Pronatus]].
+
+Members of the **Order of the August Vigil** were aboard the ship [[Tenax Propositi]], along with several other Imperial dignitaries when it crashed into [[Korsk]]. The sisters were escorting the mortal remains of [[Saint Antiope]] back to her homeworld of [[Alecto]], when the crash that the [[Vorbis Conspiracy]] centered around occurred. During the crash of the [[Tenax Propisiti]], Sisters of the Order would sell their lives holding back the crew of the ship from reaching the **Saviour Pod**, so that [[fidelia|Novitiate Fidelia]] could reliably reach Alecto's surface with the only fragment of the **Saint's remains** salvaged from the crashing ship.
