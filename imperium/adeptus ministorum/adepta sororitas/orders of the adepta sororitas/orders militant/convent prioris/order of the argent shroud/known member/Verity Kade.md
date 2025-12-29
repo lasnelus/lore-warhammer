@@ -1,0 +1,3 @@
+**Verity Kade** was a [[Canoness]] of the [[Order of the Argent Shroud]].
+
+Reinforcing [[Malakbael]] as part of [[Indomitus Crusade Fleet Quartus]], she led her forces in the [[Battle of Malak]] against **Angron** and his great Chaos host. In the later stages of the battle, she led a boarding operation of the **Ark of Omen** [[Clarion Dire]]. After a fierce running battle, all contact with Kade and her forces were lost. Just minutes after all contact was lost however, the Clarion Dire plunged into the **Warp**.

@@ -1,0 +1,3 @@
+**Rosemaera Grace** is a [[Canoness]] of the [[Order of the Argent Shroud]], who led its forces defending the **Imperial** world [[Crescent VI]].
+
+In the wake of the **Great Rift**'s creation, though, the world was left isolated by Warp Storms and a growing number of its population fell to **Heresy**. As the Psychic Awakening raged, **Canoness Grace**'s Sisters began to be heavily outnumbered by the **Heretics**, despite their continuous culling, and send out a plea for aid. She asked, however, that only those strong in their faith come to aid [[Crescent VI]], lest they too be found wanting. She did not know if the Imperium even still existed, but if it did not then the **Emperor** would see that Grace and her Sisters remained faithful to the end.

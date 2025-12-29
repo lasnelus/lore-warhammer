@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ff46ce1dc986a9",
+        "id": "5116b68e33cb0494",
         "type": "tabs",
         "children": [
           {
-            "id": "bcceb1dabfd56fab",
+            "id": "df5457c03d39a5b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/Order.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Order"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "cba721182c4fa3d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/Orders Militant.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orders Militant"
-            }
-          },
-          {
-            "id": "5c795c0b04ee29b8",
+            "id": "ad8bc2303a5bd31d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,31 +32,20 @@
             }
           },
           {
-            "id": "6c91bf5fa3d03eab",
+            "id": "dcc8ec60ab57b7af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Rosemaera Grace.md",
+                "file": "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Eleanor Blanche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rosemaera Grace"
-            }
-          },
-          {
-            "id": "1ee12809744f6bc0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Eleanor Blanche"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 334.5
   },
   "right": {
     "id": "6b348aa6fb1b20b3",
@@ -231,49 +202,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c91bf5fa3d03eab",
+  "active": "df5457c03d39a5b6",
   "lastOpenFiles": [
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Eleanor Blanche.md",
     "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/Order of the Argent Shroud.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Dissenta.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Carmina.md",
-    "Celiya.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/Orders Militant.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/Orders Dialogus.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/notable dialogus/Weldina.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Imelda Veritas.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Verity Kade.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Celiya.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Rosemaera Grace.md",
     "imperium/adeptus ministorum/adepta sororitas/troops/canoness/Canoness.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Saint Silvana.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Gracia Emmanuelle.md",
-    "imperium/adeptus ministorum/adepta sororitas/troops/canoness/known canonesses/Gracia Emmanuelle.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas equipment/relics/Auto-Tapestry of the Emperor's Judgement.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/relics",
-    "Petasus.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Carmina.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Dissenta.md",
+    "imperium/adeptus ministorum/adepta sororitas/troops/dogmata/Dogmata.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders pronatus/known member/Aestred Thurga.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders pronatus/known member",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders hospitaller/convent sanctorum/order of serenity/known member/Verity Catena.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders hospitaller/convent sanctorum/order of serenity/Order of Serenity.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders hospitaller/convent sanctorum/order of serenity/known member",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders hospitaller/convent sanctorum/Order of the Eternal Candle.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders hospitaller/convent sanctorum/order of serenity",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders hospitaller/convent sanctorum",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/notable dialogus/Weldina.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/notable dialogus/Heda.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/notable dialogus",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/convent sanctorum/order of the holy word/known member/Palmiro.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/convent sanctorum/order of the holy word/Order of the Holy Word.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/convent sanctorum/order of the holy word/known member",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/convent sanctorum/Order of the Quill.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/convent sanctorum/order of the holy word",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/convent sanctorum",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/convent prioris/Order of the Sacred Oath.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/convent prioris/Order of the Lexicon.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/orders dialogus/convent prioris",
+    "imperium/adeptus ministorum/adepta sororitas/troops/canoness/known canonesses/Serita.md",
+    "imperium/adeptus ministorum/adepta sororitas/troops/canoness/known canonesses/Selicia.md",
+    "imperium/adeptus ministorum/adepta sororitas/troops/canoness/known canonesses/Selena Agna.md",
+    "imperium/adeptus ministorum/adepta sororitas/troops/canoness/known canonesses/Aurea.md",
+    "imperium/adeptus ministorum/adepta sororitas/troops/canoness/known canonesses/Astra.md",
     "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/img/Argent_Shroud.png",
     "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/img/argentshroudBanner3.jpg",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/img",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/lesser orders militant/Lesser Order Militants.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/Order.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/unknown speciality/Unknown Specialty.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/Other Types of Order.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/Untitled.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/feur.md",
-    "Saint Mina.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders planxilium/Orders Planxillium.md",
-    "imperium/adeptus ministorum/adepta sororitas/Adepta Sororitas.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/unknown speciality/Order of the Piercing Thorn.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/unknown speciality/Order of the Broken Sepulchre.md",
-    "imperium/adeptus astartes/legion/première fondation/dark angels/Dark angels.md",
-    "imperium/adeptus ministorum/adepta sororitas/adepta sororitas armoury/adepta sororitas vehicles/aircraft/Arvus Lighter.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/unknown speciality",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/order",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders vespila",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders tarentine",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders sabine",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militant orders/other types of order/orders princeps",
-    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/non-militants order/Untitled.canvas",
+    "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/relics",
     "Diagramme sans nom.drawio.png",
-    "imperium/adeptus administratum/astra militarum/Untitled.canvas",
-    "Untitled.canvas"
+    "Untitled.canvas",
+    "imperium/adeptus administratum/astra militarum/Untitled.canvas"
   ]
 }
