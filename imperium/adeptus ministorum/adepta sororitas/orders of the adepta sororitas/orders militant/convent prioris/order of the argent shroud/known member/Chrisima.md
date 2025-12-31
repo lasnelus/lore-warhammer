@@ -1,0 +1,1 @@
+**Chrisima** was [[Canoness|Canoness-Preceptor]] of the [[Order of the Argent Shroud]]. She is famous for leading a pogrom against the mutant population of [[Charak]] at the behest of [[Petasus|Confessor Petasus]].

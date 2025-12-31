@@ -1,0 +1,1 @@
+**Beatrice** is an [[Order of the Argent Shroud|Argent Shroud]] [[Imagifier]], who is currently serving in [[Eleanor Blanche|Canoness Eleanor Blanche]]'s Crusade Force.

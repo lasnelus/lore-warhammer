@@ -1,0 +1,3 @@
+**Clarice Helmteth** was a [[Sister Superior]] of the [[Order of the Argent Shroud]], who fell in battle against the **Necrons**.
+
+Her final act was to hold a [[Simulacrum Imperialis]] high in the face of the **Xenos**' assault, despite being heavily wounded. After Clarice's death, a **Rhino** was named in her honour and it contains a small shrine to her upon its back. The [[Clarice|Clarice Rhino]]. is currently serving in the 1st Commandery of the 5th Preceptory Crusade Force led by Canoness Eleanor Blanche.

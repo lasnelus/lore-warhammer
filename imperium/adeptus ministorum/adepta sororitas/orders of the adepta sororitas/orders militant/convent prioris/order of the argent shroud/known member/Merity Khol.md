@@ -1,0 +1,1 @@
+**Merity Khol** is an [[Order of the Argent Shroud]] [[Canoness|Canoness Preceptor]], who serves in the [[Indomitus Crusade]]'s [[Battle Group Tarsus]]. She commanded the Battle Group's Argent Shroud forces, during the [[Charadon Campaign]].

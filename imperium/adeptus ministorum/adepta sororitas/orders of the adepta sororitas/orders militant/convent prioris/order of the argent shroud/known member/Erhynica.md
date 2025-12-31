@@ -1,0 +1,5 @@
+**Erhynica** is an [[Order of the Argent Shroud]] [[Celestian|Celestian Superior]], who is part of the [[Daemenor Crusade|Crusade]] force led by [[Eleanor Blanche|Canoness Eleanor Blanche]].
+
+### History
+---
+She was originally a part of a task force, led by a **Palatine**, which was fighting in an area, that the **Great Rift** suddenly appeared in. The ensuing battles that followed, caused the deaths of many of the task force's Sororitas, but it soon reunited with other scattered forces of the Argent Shroud. However, when the task force's Palatine was killed in battle, its command fell to Erhynica who led the surviving Sororitas to safety. They soon joined the Crusade force of [[Eleanor Blanche|Canoness Eleanor Blanche]], where Erhynica and the task force's other surviving Celestians, now serve as her bodyguards.

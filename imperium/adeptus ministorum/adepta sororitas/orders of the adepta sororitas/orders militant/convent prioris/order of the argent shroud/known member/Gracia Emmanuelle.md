@@ -1,0 +1,5 @@
+**Gracia Emmanuelle** is a [[Canoness]] of the [[Order of the Argent Shroud]] in the [[Gathalamor Preceptory]].[2a]
+
+As the [[Battle of Gathalamor]] began, multiple Preceptories of the [[Order of the Argent Shroud]] were among the initial **Imperial** forces sent to aid the Shrine World. [[Imelda Veritas|Canoness Imelda Veritas]] would take command of their Battle Sisters, with **Emmanuelle** serving as her second-in-command as a [[Palatine]]. Though heavily outnumbered, these initial forces needed only to prevent the Chaos invaders from claiming [[Gathalamor]] until [[Indomitus Crusade Fleet Primus]] arrived.
+
+After the death of [[Imelda Veritas]] during the later stages of the [[Indomitus Crusade]], **Emmanuelle** was granted her office. Later during the [[Pariah Crusade]], **Emmanuelle** led Sisters of Battle forces at [[Paradyce II]]. With the Imperial fleet led by [[VanLeskus|Fleetmaster VanLeskus]] mauled by the sudden arrival of massive **Necron** reinforcements, **Emmanuelle** and her Sisters were left to wage a final stand alongside Frateris Militia under [[Shanni Saintsgift]] against the Xenos. The zealous Imperials fought to the last.

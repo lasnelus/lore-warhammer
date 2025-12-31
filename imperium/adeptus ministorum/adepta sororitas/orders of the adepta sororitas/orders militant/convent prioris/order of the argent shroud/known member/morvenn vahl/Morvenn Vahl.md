@@ -1,0 +1,27 @@
+**Morvenn Vahl** is the current [[Abbess of the Adepta Sororitas]] and a [[High Lord of Terra]].
+
+### Biography
+---
+#### Promotion to Abbess
+Originally a [[Celestian]] of the [[Order of the Argent Shroud]], at the start of the [[Indomitus Crusade]] she was placed in her position by the **Ecclesiarch** to refill the previously vacant position of [[Abbess of the Adepta Sororitas|Abbess]] in a bid to improve morale. She was one of the youngest **Abbess**' ever to hold the position. The scheming clergy of the [[Adeptus Ministorum]] sought to control the new **Abbess** by making sure she was politically inexperienced and without allies. **Vahl** was not even consulted and only found out about her promotion when **Ecclesiarchy** delegates arrived to inform her while she was waging the [[Reskgard Purgation]].
+Vahl stunned all present by not immediately accepting the position, but instead declaring she would need a period of prayer to consider. Entering her Mission's shrine to [[Saint Silvana]] for three days, when she emerged, she accepted the promotion to **Abbess**. She again shocked all present by immediately demanding someone fill her current position before making for **Terra**, ignoring the many planned days of celebration and ritual to mark the occasion. At some point after her promotion, she was appointed to a **High Lord of Terra** by [[Roboute Guilliman]].
+
+#### Commander of the Adepta Sororitas
+After arriving at **Terra**, **Vahl** proved far more difficult to control than the **Ecclesiarch** had initially thought. Continuing to wear full battle armour even in the presence of members of the [[Holy Synod]], her pitiless and baroque nature intimidated many of the **Cardinals** and **Ministorum bureaucrats**. Her initial focus was to re-establish contact with as many Orders as possible in the wake of the Great Rift and nearly all of her work was focused around strictly military matters. Even after being promoted to a [[High Lord of Terra]] by [[Roboute Guilliman]] himself **Vahl** showed little interest in a political career and instead sought to continue her role as a military commander.
+
+To that end, few were surprised when she appointed herself commander of the Crusade against the traitorous traitor worlds of the [[Philosopher's Belt]]. Leading forces from every major Order, Vahl led by example and to the field personally to defeat the traitors. During these exploits she mostly ignored the many slew of **Generals**, **Governors**, and **Admirals** that clamored for her attention and instead left such matters to her [[Orders Dialogus]] and [[Orders Famulous]] staffers.
+
+#### Feat of Arms
+Unlike her predecessors she continues to lead her Sisters from the frontlines. The Ecclesiarch had initially hoped Vahl would be an easy pawn, to no avail.
+
+One of her first missions after her appointment to Abbess was to relieve [[Ophelia VII]] [[Ophelian crusade|as it was under attack from the Night Lords]] warlord [[Kol Rakhul]]. **Vahl** immediately became frustrated by both the **Ecclesiarchy** and other **High Lords**, who sent little aid. Departing aboard the [[Lux Dominus|Battlecruiser Lux Dominus]], her small flotilla was immediately set upon by Night Lords when it entered the Ophelia System. During the fighting, the Captain of the [[Lux Dominus]] overloaded his own vessels reactor to prevent its capture, forcing **Vahl** and her troops to crash-land on [[Ophelia VII]]. Battling through swathes of **Cultists** and **Chaos Space Marines**, **Vahl** was able to link up with Black Templars forces under [[Montford|Marshal Montford]] and [[Aymar Tancret|Castellan Aymar Tancret]]. While initially planning for a direct assault on [[Kol Rakhul]]'s stronghold, **Vahl** frustrated the Templars by diverting her own forces to instead launch a subterranean assault in order to rescue a group of remaining **Battle Sisters**, **pilgrims**, and the [[relic of Saint Athenasia]] near a cathedral.
+
+Leading her **Celestians**, the Sisters navigated the desecrated catacombs beneath [[Ophelia VII]] before emerging at the cathedral to defeat a **Heldrake**. **Vahl** was shaken when **Cultists** killed [[Aleyna|Sister Aleyna]], who had earlier exhibited miraculous abilities, but was nonetheless able to organize the defenses of [[Convent Sanctorum]] for a final stand against the Chaos hordes. In the ensuing battle, she personally faced down [[Kol Rakhul]]. Though badly wounded in the ensuing battle, she was able to impale the vengeful Chaos Lord with her lance. In the aftermath, she oversaw the rituals for the fallen before returning to **Terra** to confront the **High Lords** with the severed head of [[Kol Rakhul]] in hand. The campaign proved decisive in earning the respect of the [[Senatorum Imperialis]].
+
+She later took part in the [[Group Erastus|Indomitus Crusade Fleet Secundus' Battle Group Erastus]] where joined with [[Gideon|Marshal Gideon]], Emperor's Champion, and [[Baron Munstis]] and his Imperial Knights of House Fidelitor she defeated the Witch-Empress and her daemonic patrons on [[Vastoros]].
+
+One of her most recent campaigns was that in [[Charadon]], where she led [[Battle Group Tarsus]] and defeated the forces of the Black Legion [[Akhorath Zeid|Lord Discordant Akhorath Zeid]].
+
+### Wargear
+---
+In battle, **Morvenn Vahl** wields the relic [[Power Spear]] [[Lance of Illumination]]‎, which was gifted to her by the Adeptus Custodes, as well as the [[Paragon Warsuit]] [[Purgator Mirabilis]].

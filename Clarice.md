@@ -1,0 +1,1 @@
+After Clarice's death, a **Rhino** was named in her honour and it contains a small shrine to her upon its back. The **Clarice Rhino** is currently serving in the 1st Commandery of the 5th Preceptory Crusade Force led by [[Eleanor Blanche|Canoness Eleanor Blanche]].
