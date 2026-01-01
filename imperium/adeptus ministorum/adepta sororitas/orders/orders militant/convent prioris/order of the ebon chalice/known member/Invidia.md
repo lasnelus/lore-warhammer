@@ -1,0 +1,3 @@
+**Invidia** is a [[Canoness]] of the [[Order of the Ebon Chalice]], whose Sororitas were among those sent to defend an Imperial world in **M42**.
+
+However, instead of immediately going to battle, the Imperium's forces were instead sent to march in a military parade for civilians. This was called a grand triumph for the world's civilians to witness, but Invidia thought differently. She refused to have her Sororitas take part in the parade and they instead departed to face the world's foes. This was a decision the **Canoness' Celestian**, [[Siānival Redemptus]], was thankful for, as she too felt the parade was a waste of time and material.

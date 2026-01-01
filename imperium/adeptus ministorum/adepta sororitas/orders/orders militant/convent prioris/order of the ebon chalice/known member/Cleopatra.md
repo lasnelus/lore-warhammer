@@ -1,0 +1,1 @@
+**Cleopatra** was a [[Canoness|Canoness Superior]] of the [[Order of the Ebon Chalice]]. She was declared MIA during the [[13th Black Crusade]].

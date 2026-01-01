@@ -1,0 +1,1 @@
+**Arkasia Fury** was a [[Canoness]] of the [[Order of the Ebon Chalice]].

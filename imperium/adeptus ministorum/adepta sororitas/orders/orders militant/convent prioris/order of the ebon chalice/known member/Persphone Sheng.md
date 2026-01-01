@@ -1,0 +1,1 @@
+**Persphone Sheng** is a [[Canoness|Canoness Preceptor]] of the [[Order of the Ebon Chalice]], who took part in the [[Indomitus Crusade]]. During that time, she led her Sisters in the [[Drennox Cleansing]], as part of [[Battlegroup Hephaestus]].

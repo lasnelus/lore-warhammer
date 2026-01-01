@@ -1,0 +1,1 @@
+**Ximena Sandro** is an [[Order of the Ebon Chalice]] [[Canoness|Canoness Preceptor]], who serves in the Indomitus Crusade's [[Battle Group Tarsus]]. She commanded the Battle Group's Ebon Chalice forces, during the [[Charadon Campaign]].

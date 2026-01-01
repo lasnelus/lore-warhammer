@@ -102,7 +102,7 @@ The Order deployed seven companies to [[Armageddon]] during the [[Third Armagedd
 - [[Magritte]]
 - [[Chrisima]]
 - [[Merity Khol]]
-- [[imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/Gracia Emmanuelle|Gracia Emmanuelle]]
+- [[imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/known member/Gracia Emmanuelle|Gracia Emmanuelle]]
 - [[Erhynica]]
 - [[Clarice Helmteth]]
 - [[Beatrice]]

@@ -1,0 +1,1 @@
+**Intolerance** is a [[Canoness]] of the [[Order of the Ebon Chalice]]. After the Order of the Lexicon reported their research on ancient texts discovered on [[Vangore's Folly]], the Ecclesiarchy ordered Intolerance to perform an Exterminatus on the world.

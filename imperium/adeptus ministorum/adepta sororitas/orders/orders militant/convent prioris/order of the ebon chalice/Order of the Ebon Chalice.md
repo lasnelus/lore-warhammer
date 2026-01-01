@@ -54,21 +54,27 @@ On the planet [[Belatis IV]] the Order has a Preceptory stronghold, where their 
 +The [[Battle of Bastior]]
 +
 ```
-Order Elements
-Relics
-Grail of Ages[11a]
-Simulacrum of the Ebon Chalice[11]
-Annunciation of the Creed
-Battle-Psalms of Vespania
-Known Named Vehicles
-Repenta — Rhino.[8a]
-Known Members
-Alicia Dominica (Deceased)
-Cleopatra — Canoness Superior. Went MIA during the 13th Black Crusade.[15]
-Ximena Sandro — Canoness Preceptor.[14]
-Arkasia Fury — Canoness.[17]
-Intolerance — Canoness.[11b]
-Invidia — Canoness.[13]
-Persphone Sheng — Canoness.[10]
-Sarida — Canoness.[12]
-Rhiannnon — Palatine.[3]
+### Order Elements
+---
+#### Relics
+---
+- [[Grail of Ages]]
+- [[Simulacrum of the Ebon Chalice]]
+- [[Annunciation of the Creed]]
+- [[Battle-Psalms of Vespania]]
+
+#### Known Named Vehicles
+---
+- [[Repenta]] — Rhino.
+
+#### Known Members
+---
+- [[Saint Alicia Dominica|Alicia Dominica]] (Deceased)
+- [[Cleopatra]]
+- [[Ximena Sandro]]
+- [[Arkasia Fury]]
+- [[Intolerance]]
+- [[Invidia]]
+- [[Persphone Sheng]]
+- [[Sarida]]
+- [[Rhiannnon]]
