@@ -4,7 +4,7 @@
 
 ### Notable Celestians
 - [[Erhynica]]
-- [[Celestian Sacresant Aveline]]
+- [[Aveline Aboyé]]
 - [[Sister Martika]]
 - [[Sister Miriya]]
 - [[Sister Oleande]]
