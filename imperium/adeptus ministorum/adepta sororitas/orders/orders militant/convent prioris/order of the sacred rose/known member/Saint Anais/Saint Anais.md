@@ -1,0 +1,5 @@
+**Saint Anais** was a Living Saint that fought during the [[Kaurava conflict]]. Saint Anais was placed by the [[Treganum March|Confessor Treganum March]] in the Order of the Sacred Rose's primary bastion in Sama District on [[Kaurava I]], as the Confessor knew that it would take a massive amount of holy light and fire to cleanse the entire [[Kaurava system]].
+
+Saint Anais could be imbued with the ((Inviolable Aura)) - an aura which rendered every sister of battle in her presence invincible. However, if the holy shrines used in the blessing were to be destroyed, the aura would be rendered powerless, making it possible for the Living Saint to be slain.
+
+She was armed with the [[Ardent Blade]].

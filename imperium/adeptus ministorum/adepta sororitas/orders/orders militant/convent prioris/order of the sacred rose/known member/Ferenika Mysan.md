@@ -1,0 +1,1 @@
+**Ferenika Mysan** is a [[Canoness|Canoness Commander]] of the [[Order of the Sacred Rose]]. She commands its forces in [[Battle Group Kallides]], which is waging the **Indomitus Crusade's** [[Pariah Crusade]].

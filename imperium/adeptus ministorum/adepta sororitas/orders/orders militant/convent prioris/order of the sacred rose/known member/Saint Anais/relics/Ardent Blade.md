@@ -1,0 +1,1 @@
+the **Ardent Blade** is an immensely powerful sword capable of casting forth huge gouts of immolating holy fire.

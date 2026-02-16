@@ -3,7 +3,7 @@ The **Order of the Argent Shroud** is one of the six major [[Orders Militant]] o
 Founder : [[Alexis XXII]]
 Founding : M36
 Matriarch : [[Saint Silvana|Silvana]]
-Convent : Convent Prioris
+Convent : [[Convent Prioris]]
 Colours : Silver armour, white cloaks with red linings and weapons
 
 ### Overview

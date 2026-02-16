@@ -1,0 +1,9 @@
+[[Canoness]] **Selena Agna** of the[[ Order of the Sacred Rose]] was the commander of the Sisters of Battle present on the [[Kaurava system]] during the [[Kaurava conflict]]. Apart from fighting the **xenos** and **heretics** in the system, she also fought against the Blood Ravens and the 252nd Conservator Regiment, deeming the former a threat for not ceding authority to her forces, and the latter as corrupted, responsible in some way for the Warp Storm.
+
+When the Sisters defeated all the other factions, they began a massive purge to rid the system of anything and anyone suspected of Heresy. The planets of the system became Monastery worlds with one ecclesiarchal citadel for each of the six major military orders of the Adepta Sororitas. Millions Sisters of Battle visited the system as a holy pilgrimage and reminder of their crusade in the Kaurava system and to gather for "Prayer and Preparation".
+
+If the Sisters of Battle were defeated, the Saint Anais was killed in a hail of fire aimed at her head, while Selena Agna ordered "Sisters, we must go as Martyrs! We must go up in flames!" Selena Agna awaited the enemy approach, and when they closed on her, she activated a device that caused herself and the enemies near her to be burnt to death.
+
+If defeated by the Space Marines, all survivors were treated with the utmost deference, and were given swift medical aid and safe passage back to the Convent Sanctorum on Ophelia VII where they were at the mercy of the Inquisition. If defeated by the Imperial Guard forces, General Vance Stubbs remarked on his victory as a sign of the Emperor's will for their control over the system.
+
+Her first name, Selena, is derivative of Selene, the moon goddess of Roman mythology; whereas her last name refers to the Hindu fire goddess - Agni - which is fitting, given the Sisters of Battle favour the use of flame-based weaponry in combat.

@@ -1,0 +1,1 @@
+**Berionne** is an [[Order of the Sacred Rose]] [[Canoness]], who was among its forces that killed the [[Parallax Widow]] and destroyed her tainted court.
