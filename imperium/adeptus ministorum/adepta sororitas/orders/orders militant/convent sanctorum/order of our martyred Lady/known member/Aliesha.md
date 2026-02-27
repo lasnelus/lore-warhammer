@@ -1,0 +1,1 @@
+**Aliesha** is a Battle Sister in the Adepta Sororitas' [[Order of Our Martyred Lady]].

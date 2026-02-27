@@ -2,4 +2,4 @@
 
 Saint Anais could be imbued with the ((Inviolable Aura)) - an aura which rendered every sister of battle in her presence invincible. However, if the holy shrines used in the blessing were to be destroyed, the aura would be rendered powerless, making it possible for the Living Saint to be slain.
 
-She was armed with the [[Ardent Blade]].
+She was armed with the [[imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Saint Anais/relics/Ardent Blade]].

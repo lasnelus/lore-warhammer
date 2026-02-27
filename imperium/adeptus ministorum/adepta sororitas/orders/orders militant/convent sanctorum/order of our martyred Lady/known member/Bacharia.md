@@ -1,0 +1,1 @@
+**Bacharia** is a [[Retributor]] in the Adepta Sororitas' [[Order of Our Martyred Lady]].

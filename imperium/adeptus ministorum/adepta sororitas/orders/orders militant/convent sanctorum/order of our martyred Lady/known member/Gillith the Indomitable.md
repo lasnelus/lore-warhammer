@@ -1,0 +1,1 @@
+**Gillith the Indomitable** was a Sister of the [[Order of Our Martyred Lady]]
