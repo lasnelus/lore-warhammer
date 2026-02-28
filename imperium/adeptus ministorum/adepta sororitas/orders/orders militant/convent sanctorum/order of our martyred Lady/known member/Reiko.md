@@ -1,0 +1,3 @@
+**Reiko** was a veteran Sister Superior of the [[Order of Our Martyred Lady]] and [[Galatea|Canoness Galatea]]'s personal aide on the planet [[Neva]].
+
+When Baron [[Holt Sherring]], ruler of the city-state of [[Metis]], was convinced to rebel against the local Ecclesiarch by the psyker [[Torris Vaun]], the Sisters of Battle attacked in force. Reiko took part in the invasion of the rogue city-state and helped lead the advance to the Baron's mansion. During the battle she was killed by a psyker allied with Torris Vaun, when he used his powers to cause her boltgun to explode in her hands.

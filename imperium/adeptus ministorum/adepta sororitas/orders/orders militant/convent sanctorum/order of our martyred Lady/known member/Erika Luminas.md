@@ -1,0 +1,5 @@
+**Erika Luminas** is an Adepta Sororitas [[Palatine]] of the [[Order of Our Martyred Lady]].
+
+Known as a ferociously zealous and experienced commander, she manifests [[Saint Katherine]]'s fearlessness in a way that many outside her Order have mistaken for recklessness. Of all the enemies of mankind, those which desecrate holy relics inspire the most rage.
+
+When a sorcerous plague began to ravage War Zone [[Metalica]] in M42, Palatine Luminas and her forces were sent on a vital task to aid the Imperium. They were charged with finding the bones of an Imperial Saint, which would bolster a protective ward around its Sector's most vital Imperial cities. Their search led them to the city of Purity on [[Martyr's Rest]], which unluckily for them had just been turned into a deadly arena by Drukhari, led by [[Lelith Hesperax]]. This was because the Succubus intended to use the city, to prove once and for all that she was the best gladiator in Commorragh. Luminas' forces were then forced to clash with the Drukhari, as the Adepta Sororitas searched the city for the Imperial Saint's bones.

@@ -1,0 +1,1 @@
+[[Celestian]] [[Leora Sancta]] is a [[Paragon Warsuit]] pilot in the Adepta Sororitas' [[Order of Our Martyred Lady]].

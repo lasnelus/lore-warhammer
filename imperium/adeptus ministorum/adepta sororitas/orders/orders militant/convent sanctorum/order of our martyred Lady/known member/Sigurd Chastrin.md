@@ -1,0 +1,1 @@
+**Sigurd Chastrin** is an [[Order of Our Martyred Lady]] [[Canoness]] Preceptor, who serves in the [[Battle Group Tarsus|Indomitus Crusade's Battle Group Tarsus]]. She commanded the Battle Group's Martyred Lady forces, during the [[Charadon Campaign]].

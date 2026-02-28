@@ -1,0 +1,3 @@
+The **Blade of Purity** is a gleaming [[Power Sword]], that became a relic of the [[Order of Our Martyred Lady]] after it was wielded by [[Joghilde|Canoness Joghilde]].
+
+The Canoness died at the hands of Typhus the Traveler, during the Charadon Campaign, but not before she wounded the traitor with the Blade. It is said, that the Power Sword dealt him a wound so holy, that not even Typhus' plague-ridden post-Human physiology could heal the damage.[1]

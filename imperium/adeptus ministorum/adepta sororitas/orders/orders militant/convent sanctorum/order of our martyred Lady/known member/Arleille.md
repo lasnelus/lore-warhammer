@@ -1,0 +1,3 @@
+**Arleille** is an [[Order of Our Martyred Lady]] [[Canoness]], who is currently in battle with a Heretic.
+
+As they clash, the Canoness claims that if she dies at the Heretic's hands, her soul will become like fire and join the Emperor. It will blaze as one with His divine light and Arleille will then guide and lend her strength to the Imperium's faithful, until there are no more Heretics. But the Canoness finished by stating that will only happen, if the Heretic kills her.[1]

@@ -2,8 +2,8 @@ A **Palatine** (or **Sister Palatine**) is an Adepta Sororitas battlefield c
 
 ### Known Palatines
 - [[Uwe Bajola]]
-- [[Helia]]
+- [[imperium/adeptus ministorum/adepta sororitas/troops/palatine/known palatines/Helia]]
 - [[Gracia Emmanuelle]]
-- [[Erika Luminas]]
+- [[imperium/adeptus ministorum/adepta sororitas/troops/palatine/known palatines/Erika Luminas]]
 - [[Emillia Nihlus]]
-- [[Theria]]
+- [[imperium/adeptus ministorum/adepta sororitas/troops/palatine/known palatines/Theria]]

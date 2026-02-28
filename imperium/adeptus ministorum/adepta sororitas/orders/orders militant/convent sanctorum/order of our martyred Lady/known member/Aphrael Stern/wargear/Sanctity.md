@@ -1,0 +1,1 @@
+**Sanctity** is a [[power sword]] wielded by the Battle Sister [[Ephrael Stern]] and the blade is a match for such an the expert fighter.

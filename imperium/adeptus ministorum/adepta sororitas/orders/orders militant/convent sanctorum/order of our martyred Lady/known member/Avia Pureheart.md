@@ -1,0 +1,3 @@
+**Avia Pureheart** is an [[Order of Our Martyred Lady]] [[Canoness]], who is currently leading the [[Paragons of Piety]] Crusade Force.
+
+She began leading the Crusade in M42, when the [[Garvael|Missionary Garvael]] visited her convent and asked for their aid in undertaking a holy quest. He claimed to have revived a vision from the Emperor and his words successfully rallied Avia and a Crusade Force from her convent to his side. However as the Canoness' military experience far outweighed that of the zealous Missionary, Avia leads their forces to battle.

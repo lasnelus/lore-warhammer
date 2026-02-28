@@ -1,0 +1,5 @@
+**Saint Jheraldine**, known as **Jheraldine the Pure** and originally as Jheraldine Vorta, is an Imperial Saint.
+
+Once a Sister Superior of the [[Order of Our Martyred Lady]], she fell defending her faith in M39 on the world of [[Sangheist]] against the Chaos [[Cult of the Third Eye]]. During the battle Jheraldine forced her away through waves of cultists and possessed, eventually sacrificing herself to secure a landing zone. Her sacrifice saw the Chaos Cult burned out within days and she was declared a Saint by the Holy Synod in the aftermath.
+
+Now, the Saint's remains dwell on the world of [[Martyr's Rest]] and draws many pilgrims. These remains were threatened by the Dark Eldar during the [[Battle of Martyr's Rest]], which saw the Order of Our Martyred Lady arrive to defend the bones of the Saint.

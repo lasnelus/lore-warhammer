@@ -1,0 +1,8 @@
+The **Geminae Superia** are the twin guardians of [[Saint Celestine]].
+
+Previously known as **Eleanor** and **Genevieve**, they both held the position of [[Canoness]] of the [[Order of Our Martyred Lady]]. They were both killed by the Daemon Prince [[Urkanthos]] during the battle for Cadia in the [[13th Black Crusade]]. Due to their bravery and faith, both were resurrected as Living Saints by Saint Celestine upon her arrival to Cadia and they serve as her champions.
+
+After the opening of the Great Rift, during the battle on [[Tsadrekha]], Saint Celestine recruited two new warriors from amongst the present Sisters of Battle, who became her new Geminae Superia. They were killed shortly afterwards by the overwhelming Chaos forces. Similarly, on the world of [[Kophyn]] Saint Celestine appointed two warriors of the Adepta Sororitas as her Geminae Superia. The Sister [[Persephanae Kauser]], also gladly served as one of its number. On [[Vigilus]] Celestine recruited a young Sororitas dubbed **Ana**.
+
+### Shards of Celestine
+During Celestine's resurrection trials she must pass every time she dies, she encounters two shards of her soul: "Faith" and "Duty" who remain separate, but support her like the Geminae. Upon completion of her trials, they return to life with her, instead of merging with her. This heavily implies that when she chooses two Battle Sisters as her new Geminae Superia, they are imbued with these soul shards to empower them and turns them into duplicates of her previous Geminae Superia.[3]

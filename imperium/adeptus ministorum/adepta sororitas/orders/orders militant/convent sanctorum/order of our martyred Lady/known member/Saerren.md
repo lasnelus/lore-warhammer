@@ -1,0 +1,1 @@
+**Saerren** is a Sister Superior of the [[Order of Our Martyred Lady]]. She is currently among the Order's forces defending an Imperial world from the Craftworld [[Saim-Hann]], who seek to reclaim it for the Eldar.

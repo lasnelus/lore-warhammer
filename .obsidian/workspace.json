@@ -14,7 +14,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Vue graphique"
             }
           },
           {
@@ -23,30 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Maelin.md",
+                "file": "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Kelpeth Mordain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maelin"
-            }
-          },
-          {
-            "id": "fb63633d2a048a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Helenica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Helenica"
+              "title": "Kelpeth Mordain"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -103,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 340.5
   },
   "right": {
     "id": "6b348aa6fb1b20b3",
@@ -193,57 +178,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f28469131613fe80",
+  "active": "1ee12809744f6bc0",
   "lastOpenFiles": [
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Bacharia.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Maelin.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Aliesha.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Gillith the Indomitable.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Helenica.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Anarchia.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Avra.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Kerenna.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/Order of the Argent Shroud.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Ellsbeth Wake.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/Order of Our Martyred Lady.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/known member/Dissenta.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/known member/Clarice Helmteth.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/known member/Chrisima.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/known member/Carmina.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/known member/Celiya.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/known member/Beatrice.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/known member/Alana.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Kelpeth Mordain.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Oris.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Moirelle.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Sigurd Chastrin.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Junith Eruita/wargear/Mace of Castigation.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Junith Eruita/wargear/Pulpit of Saint Holline's Basilica.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Junith Eruita/Junith Eruita.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Junith Eruita/wargear",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Junith Eruita",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Marya Somnatian.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Temperance Blaise.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Montaine.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Avia Pureheart.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Rosina.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Serita.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/joghilde/wargear/Blade of Purity.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/joghilde/Joghilde.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/joghilde/wargear",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Geminae Superia.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/joghilde",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Arleille.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Elveren.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Yves-Io.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Larenta.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Irinya.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Felicita.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Cesti.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Erika Luminas.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Helia.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Theria.md",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Aphrael Stern/wargear",
+    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member/Aphrael Stern",
     "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/known member",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent sanctorum/order of our martyred Lady/Untitled.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/Order of the Sacred Rose.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Aveline Aboyé.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Selena Agna.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Vasiliki.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Marguerite.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Sariah.md",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Magda Grace.md",
     "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Saint Anais/relics",
     "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Saint Anais",
     "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Amity Hope/img/AmityHope.jpg",
     "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Amity Hope/img",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member/Amity Hope",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/relics",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/known member",
     "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/img/Sacred_Rose.png",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the sacred rose/img",
     "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/known member/morvenn vahl/img/200px-Morvenn-Vahl.jpg",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the ebon chalice/known member/saint alicia dominica/relics",
-    "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/known member/morvenn vahl/wargear",
     "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/img/Argent_Shroud.png",
     "imperium/adeptus ministorum/adepta sororitas/orders/orders militant/convent prioris/order of the argent shroud/img/argentshroudBanner3.jpg",
     "imperium/adeptus ministorum/adepta sororitas/orders of the adepta sororitas/orders militant/convent prioris/order of the argent shroud/known member/morvenn vahl/img/200px-Morvenn-Vahl.jpg",

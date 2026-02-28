@@ -1,0 +1,1 @@
+**Montaine** is an [[Order of Our Martyred Lady]] [[Canoness]] who is leading her Sisters, alongside the Iron Hands, against the Alpha Legion and their Cult allies on [[Nolth Prime]].

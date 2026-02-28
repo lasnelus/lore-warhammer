@@ -1,0 +1,1 @@
+**Kelpeth Mordain** is a [[Canoness]] Preceptor of the [[Order of Our Martyred Lady]]. She commands its forces in [[Battle Group Kallides]], which is waging the [[Indomitus Crusade]]'s [[Pariah Crusade]].

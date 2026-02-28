@@ -1,0 +1,3 @@
+**Theria** is a [[Palatine]] of the [[Order of Our Martyred Lady]].
+
+In M42, she was part of a fleet that the Order sent to end a series of insurrections on [[Varentis II]]. Under the command of [[Moirelle|Canoness Preceptor Moirelle]], the fleet entered the Warp, but the tides turned against them and they arrived at the world a year later. By then, Varentis II's insurrections had revealed themselves to be the workings of Chaos Cults, which now had control of the world. Unbowed by this, Moirelle quickly invaded Varentis II with 4 of the Martyred Lady's Adepta Sororitas Commanderies. With the aid of Theria, [[Yves-Io|Canoness Yves-Io]] and a surviving Loyalist militia, led by Bishop-Praetor [[Inigo Ravellon]], Moirelle succeeded in defeating the Heretics.

@@ -1,0 +1,1 @@
+The **Pulpit of Saint Holline's Basilica** is an Adepta Sororitas [[Grav-vehicle]], that is the personal vessel of [[Junith Eruita|Canoness Superior Junith Eruita]] of the [[Order of Our Martyred Lady]]. It can unleash devastating firepower at close range, courtesy of the Pulpit's two frontal heavy flamers.

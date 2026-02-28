@@ -1,0 +1,3 @@
+**Helia** was a [[Palatine]] of the [[Order of Our Martyred Lady]], whose forces were stationed on [[Ophelia VII]] when it was invaded by the forces of Chaos.
+
+Despite the Battle Sisters' efforts, the Cardinal World would have fallen had Lord Commander [[Roboute Guilliman|Guilliman]] and the [[Indomitus Crusade]] not arrived to aid it. With their help [[Ophelia VII]] was saved, though Helia and most of the fifty Sisters under her command were killed during the invasion. The six Sisters who survived were [[Ashava]], [[Qi-Oh]], [[Calyth]], [[Munari]], [[Sarita]] and [[Evangeline]].

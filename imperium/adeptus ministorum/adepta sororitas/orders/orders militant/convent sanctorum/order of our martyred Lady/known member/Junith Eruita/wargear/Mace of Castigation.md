@@ -1,0 +1,1 @@
+The **Mace of Castigation** is an Adepta Sororitas [[Power Weapon]], that is wielded by the [[Order of Our Martyred Lady]] Canoness Superior, [[Junith Eruita]].
