@@ -1,0 +1,1 @@
+The Martyr's Sword is a [[Power Sword]] relic blade of the [[Order of Our Martyred Lady]] and is said to have been tempered with drops of [[Saint Katherine]]'s dying blood. It is carried by the Spirit of Katherine, when the six chosen members of the [[Triumph of Saint Katherine|Orders Pronatus escort Saint Katherine's remains into battle]].

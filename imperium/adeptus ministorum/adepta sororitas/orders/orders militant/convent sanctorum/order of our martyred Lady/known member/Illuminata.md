@@ -1,0 +1,3 @@
+**Illuminata** is a member of the Sisters of Battle who is the current [[Prioress]] of [[Convent Sanctorum]].
+
+Hailing from the [[Order of Our Martyred Lady]], she was in charge of Sororitas forces on [[Ophelia VII]] during its invasion by the Night Lords. During the battle she proved a capable and close ally of [[Morvenn Vahl|Abbess Morvenn Vahl]]. After the battle she refused to become part of Vahl's retinue, instead choosing to remain behind on Ophelia VII to oversee reconstruction.

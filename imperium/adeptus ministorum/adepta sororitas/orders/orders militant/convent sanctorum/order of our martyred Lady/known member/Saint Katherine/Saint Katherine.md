@@ -1,0 +1,13 @@
+**Katherine Elysius** (later canonized as **Saint Katherine**), also known as **The Shield Bearer**, was the founder of the [[Order of Our Martyred Lady|Order of the Fiery Heart]].
+
+
+Regarded as [[Saint Alicia Dominica|Alicia Dominica]]'s second-in-command, Saint Katherine is said to have been the bearer of Dominica's [[Praesidium Protectiva]], and was well known for her determination and avenging spirit, seen always at the brunt of any conflicts and leading many wars of faith against heretics and witches in the name of the The Emperor. As member of the [[Brides of the Emperor]], Saint Katherine was one of the six sisters who was brought before the Golden Throne at the climax of the Age of Apostasy. It is said that upon standing before the Golden Throne Katherine's own hair turned white - the detail which became a characteristic feature of the entire order which she later founded. She was subsequently present when [[Goge Vandire]] was executed.
+
+Subsequently, she founded the Order of the Fiery Heart, named due to her fiery persona. She led her order in countless battles across the galaxy, and was declared a Living Saint, becoming a legend in her own lifetime. Some time before her death, Katherine visited the world of [[Sanctus Lys]], and in a hidden crypt beneath a shrine interred the golden power [[Armour of Saint Katherine]] and [[The Ardent Blade]]. The Adepta Sororitas also retell many apocryphal tales about Katherine's deeds, though these have become much-changed over times and are often of dubious historicity. The achievements attributed to Saint Katherine include the recovery of the Nakemaran war banner on the Cemetery World [[Sukato]] after overcoming a Tyranid swarm; assisting in the redemption and martyrdom of Sister [[Mila]] at the scavenger worlds of [[Thelys]]; defeating the Ork invasion of [[Tirzah Kai]]; overthrowing the Chaos regime on [[Morugo]] by rallying its still-uncorrupted people against the remaining Mutant population; and overcoming the High Deacon of the Shrine World [[Elena]], exposing him as a powerful, mind-bending witch.
+
+Katherine was eventually killed by the Witch-cult of Mnestteus, and her order was renamed as the [[Order of Our Martyred Lady ]]due to the deep mourning of her sisters. Since then, her corpse has become a relic which is [[Triumph of Saint Katherine|carried in triumph]] across war zones of the Galaxy, inspiring the faithful. In this procession, one Sister always adopts the name and mantle of Katherine, bearing her relics in combat and being imbued by her spirit.
+
+### Relics
+- [[Martyr's Sword]]
+- [[Praesidium Protectiva]]
+- [[Armour of Saint Katherine]]
