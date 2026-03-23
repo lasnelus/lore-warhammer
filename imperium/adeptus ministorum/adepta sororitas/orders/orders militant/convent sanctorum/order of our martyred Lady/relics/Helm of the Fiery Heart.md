@@ -1,0 +1,3 @@
+The **Helm of the Fiery Heart** is a venerated relic of the [[Order of Our Martyred Lady]] and it was blessed by [[Saint Katherine]] herself.
+
+The relic still bears the heraldry of the Order of the Fiery Heart, as the Martyred Lady was once named, and those who wear it are bestowed a portion of Katherine's own saintly protection. However in doing so, the Helm of the Fiery Heart all but guarantees the wearer will share Katherine's eventual fate.

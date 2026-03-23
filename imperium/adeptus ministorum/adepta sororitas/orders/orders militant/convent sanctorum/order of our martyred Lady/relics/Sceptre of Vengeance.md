@@ -1,0 +1,3 @@
+**Sceptre of Vengeance** is a relic [[Power Maul]] used by the [[Order of Our Martyred Lady]].
+
+It was once wielded by [[Saint Praxedes]] during the [[Second Tyrannic War]], to smite Hive Fleet Kraken's Tyranid swarms on [[Okassis]]. The Sceptre was presumed destroyed, after the Cardinal World was consumed, but the relic was later recovered. It now resides with the Order of Our Martyred Lady once more and is wielded by the Order's Dogmatas. When activated, the Sceptre's head is wreathed in cleansing flames, that leave a trail of fiery sparks as it is swung through the air.

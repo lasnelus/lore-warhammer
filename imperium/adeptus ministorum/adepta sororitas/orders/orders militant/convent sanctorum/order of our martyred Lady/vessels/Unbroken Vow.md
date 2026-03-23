@@ -1,0 +1,3 @@
+The **Unbroken Vow** is a [[Dauntless Class Light Cruiser]], currently under the command of [[Elivia|Canoness Commander Elivia]], of the [[Order of Our Martyred Lady]].
+
+In the aftermath of the Great Rift's creation, the Cruiser joined the [[Indomitus Crusade]] in saving [[Ophelia VII]] from a Chaos invasion. Elivia would later use the Unbroken Vow in her search for the lost [[Shield of Saint Katherine]].

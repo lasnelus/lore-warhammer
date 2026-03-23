@@ -1,0 +1,1 @@
+The **Candela Scroll** is a relic of the [[Order of Our Martyred Lady]] and it is believed to contain the only record detailing the martyrdom of [[Saint Katherine]].

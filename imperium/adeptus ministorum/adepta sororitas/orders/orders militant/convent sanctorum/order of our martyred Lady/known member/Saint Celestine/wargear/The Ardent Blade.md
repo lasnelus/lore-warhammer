@@ -1,0 +1,3 @@
+**The Ardent Blade** is a sword carried by [[Saint Celestine]]. She found the blade in a crypt on the world of [[Sanctus Lys]].
+
+The blade is long and double-edged. The hilt is worked in the shape of the Imperial Aquila, and a skull is carved into the pommel. The sword is usually depicted wreathed in flowers, as it was when Celestine first emerged from the crypt carrying it. The blade can also unleash a jet of flames.

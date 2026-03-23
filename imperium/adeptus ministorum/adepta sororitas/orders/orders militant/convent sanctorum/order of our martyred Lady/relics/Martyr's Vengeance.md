@@ -1,0 +1,3 @@
+The **Martyr's Vengeance** is a relic of the Sisters of Battle [[Order of Our Martyred Lady]].
+
+Baffling the greatest Tech-Priests with its seemingly miraculous emanations, **Martyrs' Vengeance** was the sidearm of [[Saint Valpurgis]]. The few Sisters who survived the [[Defence of Ghems Gate]] told of Valpurgis striding calmly in front of her squad as an enemy war engine barreled towards her. In the instant before the impact, the Emperor's own light speared from the outstretched pistol, cleaving through the onrushing machine and detonating its stored ammunition in a divine conflagration.
