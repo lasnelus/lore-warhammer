@@ -1,0 +1,1 @@
+**Amelda** is an Adepta Sororitas [[Seraphim]] commander. In **858.M41** she took part in the [[Defence of Dimmamar]] and killed [[Kauerith|Eldar Farseer Kauerith]] with a Bolt round to the head.

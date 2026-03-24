@@ -1,0 +1,1 @@
+**Yene'sh Shu** is a [[Canoness|Canoness Preceptor]] of the [[Order of the Bloody Rose]]. She commands its forces in [[Battle Group Kallides]], which is waging the [[Pariah Crusade|Indomitus Crusade's Pariah Crusade]].

@@ -1,0 +1,3 @@
+**Mina's Wrath** is a relic [[power sword]], owned by the [[Order of the Bloody Rose]].
+
+The graceful sword has an energy field that radiates a ferocious heat, said to be the ire of [[Saint Mina]]. Tech-Magi instead speculate that its Machine Spirit is aggravated. Yet when shouted prayers are made to Mina, the sword's capacitors flood it with barely-suppressed energy and when it is driven into heretic flesh the super-heated blade immolates its victim.

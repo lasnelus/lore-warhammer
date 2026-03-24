@@ -1,0 +1,1 @@
+**Ceskina** is an [[Order of the Bloody Rose]] [[Canoness]], who is currently leading a Crusade force of Sororitas. Among them is the [[Orelle|Dialogus Orelle]].

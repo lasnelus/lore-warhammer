@@ -1,0 +1,3 @@
+The **Armour of True Sacrifice** is a relic suit of [[power armour]], owned by the [[Order of the Bloody Rose]].
+
+It bears the marks of centuries of war and when worn in battle, the Armour is a potent symbol of the Sister's fervent piety as one of the [[Emperor|God-Emperor]]'s chosen. Every drop of scarlet blood they then shed in His name, is said to draw the Emperor's holy gaze to their noble soul.

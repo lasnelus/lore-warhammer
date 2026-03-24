@@ -1,0 +1,3 @@
+The **Icon of the Crimson Martyr** is a [[Simulacrum Imperialis]], owned by the [[Order of the Bloody Rose]].
+
+A sacred statue made to honour [[Saint Mina]]'s final battle, the Icon is held in special reverence by her order. Imagifiers who bear it to battle have been known to fight on through seemingly mortal wounds, their stentorian voices conveying the truth of Mina's martyrdom to those around. With shouted conviction, they tell their sisters how, when the hour is darkest and foes close upon them, then will ferocious dedication, faith and skill at arms see even the most indomitable foe cast down in bloody damnation.

@@ -1,0 +1,1 @@
+The **Petals of the Bloody Rose** are relics of the [[Order of the Bloody Rose]]. They are ritually scattered to symbolise the blood of the enemy spilt by the Imperial [[Saint Mina]], before she was martyred.

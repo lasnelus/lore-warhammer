@@ -1,0 +1,1 @@
+**Charlotte** was a [[Canoness|Canoness Superior]] of the [[Order of the Bloody Rose]] who fought against the [[13th Black Crusade]].

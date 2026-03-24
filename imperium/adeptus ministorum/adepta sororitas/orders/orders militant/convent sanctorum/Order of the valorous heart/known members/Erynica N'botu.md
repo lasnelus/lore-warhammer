@@ -1,0 +1,1 @@
+**Erynica N'botu** is a Battle Sister of the Adepta Sororitas' [[Order of the Valorous Heart]].

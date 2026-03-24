@@ -1,0 +1,1 @@
+**Zaran Brayg** was a [[Canoness|Canoness Preceptor]] of the [[Order of the Bloody Rose]]. She was one of the senior commanders of the War of Faith that defended [[Sangua Terra]] during the [[Nachmund Rift War]].

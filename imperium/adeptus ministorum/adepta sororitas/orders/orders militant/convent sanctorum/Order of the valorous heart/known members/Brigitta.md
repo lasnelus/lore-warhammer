@@ -1,0 +1,1 @@
+**Brigitta** is a [[Canoness]] of the [[Order of the Valorous Heart]].

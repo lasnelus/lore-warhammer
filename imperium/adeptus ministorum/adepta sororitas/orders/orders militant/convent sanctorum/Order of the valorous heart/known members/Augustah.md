@@ -1,0 +1,1 @@
+**Augustah** is a [[Canoness]] of the [[Order of the Valorous Heart]], whose forces are currently training on a Desert World within the three-sunned [[Tressis-qoraxba System]]. She is taking part in the 15 day training herself and has continuously marched for 11 days so far.

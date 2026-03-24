@@ -1,0 +1,3 @@
+The **Casket of Penance** is a relic of the Sisters of Battle [[Order of the Valorous Heart]].
+
+Within this unadorned ebonite box lies a relic so suffused with the Emperor's divine spark that it radiates a ferocious aura. Its holiness is so powerful that it scarifies its guardians flesh, yet one worthy enough to carry the casket into battle welcomes the chance to prove the strength of her faith and will. To the unbeliever who approaches too close, it is an incapacitating and sickening draining of the soul.

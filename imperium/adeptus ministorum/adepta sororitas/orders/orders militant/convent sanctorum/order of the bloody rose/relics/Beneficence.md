@@ -1,0 +1,3 @@
+The **Beneficence** is a relic of the Sisters of Battle [[Order of the Bloody Rose]].
+
+This savage [[chainsword]] is lauded amongst the [[Order of the Bloody Rose]] for its perfection of weight and the deepness of its pious bite. As the deep-red armour of its wielder plunges ferociously into dense knots of faithless idolaters, Beneficence sends arterial sprays across the battlefield with each cut of enemy flesh. Terrified mutants and witches fall before its blessing.

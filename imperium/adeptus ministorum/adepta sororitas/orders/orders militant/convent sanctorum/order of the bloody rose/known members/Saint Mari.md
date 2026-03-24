@@ -1,0 +1,3 @@
+**Mari** is an Imperial Saint.
+
+Mari was a [[Canoness|Canoness Superior]] of the [[Order of the Bloody Rose]] who led her forces against Slaaneshi cults in the [[Nephilim Sector]]. She was so enraged by the atrocities unleashed by the heretics that she and her troops moved from planet to planet, murdering all cultists they came across while ignoring captured Imperials. Afterwards she penned the Throne Treatise using the blood of Sisters who had fallen in the war. The treatise outlines that the path of least evil lies always with the swift extirpation of those who oppose the faith, and therefore mercy in any form must come after meting out righteous anger. After her death she was canonized into a Saint.

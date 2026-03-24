@@ -1,0 +1,1 @@
+Patricia Laserian is an Adepta Sororitas [[Palatine]] of the [[Order of the Valorous Heart]].

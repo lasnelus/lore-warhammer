@@ -1,0 +1,3 @@
+**Danicia** is a [[Canoness]] in the [[Order of the Bloody Rose]], who serves within [[Battle Group Erastus|Indomitus Crusade Fleet Secundus' Battle Group Erastus]].
+
+She was among the Battle Group's forces that invaded [[Vastoros]], to free it from the control of the Witch-Empress. However the powerful Rogue Psyker's abilities allowed her to control the world's entire population and she was aided by several Chaos Warbands. After the Battle Group's invasion began, Danicia was among the Imperial forces that eventually fought their way to the Witch-Empress's palace. In the hard fought battle that followed, the Empress was killed and her Daemonic patrons were defeated. With the Rogue Psyker's death, both Vastoros and its population were freed from her control.

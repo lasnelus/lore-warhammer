@@ -1,0 +1,1 @@
+The **Icon of the Valorous Heart** is a relic of the [[Order of the Valorous Heart]]. This pulsing icon associated with [[Saint Lucia]] brings strength to the warriors of the Imperium who hear its beat.
