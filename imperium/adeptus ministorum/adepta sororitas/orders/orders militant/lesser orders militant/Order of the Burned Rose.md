@@ -1,0 +1,1 @@
+The Order of the Burned Rose is a minor Order of the Adepta Sororitas, who wear bone coloured power armour and reside in the [[Macharian Sector]]. They are the bane of those who hide from the Emperor's light and in battle, their armour grows darker from the smoke of the Burned Rose's righteous flames.

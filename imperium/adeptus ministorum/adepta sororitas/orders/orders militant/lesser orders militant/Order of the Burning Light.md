@@ -1,0 +1,5 @@
+The **Order of the Burning Light** is a lesser [[Orders Militant]] of the **Adepta Sororitas**.
+
+Some of its Battle Sisters were stationed on [[Hediarth]], when the [[Sithoza System]] fell to Heresy. As the Burning Light and other Orders there sought to defeat the rebellious population, its Sisters also defended the [[Shrine of Saint Locrezzia]]. They would later be aided in this quest by several members of the Black Templars, when the Chapter came to restore order to the world.
+
+The Order later committed forces to the [[Siege of Dharrovar]] during the [[Nachmund Rift War]]. They were known to have fought alongside the Sisters of the [[Order of the Sublime Adoration]] and Imperial Guardsmen of the [[901st Dataggan Dragoons]] and [[905th Dataggan Dragoons]]. In the Imperial retreat from Dharrovar, hundreds of the Burning Light's Sisters were killed by the forces of Chaos after the Guardsmen guarding their flanks were overwhelmed.

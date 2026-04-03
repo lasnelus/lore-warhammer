@@ -1,0 +1,1 @@
+The **Order of the Black Sepulchre** is a minor [[Orders Militant]] of the **Sisters of Battle**. The order took part in the Imperial defense of [[Magdelene IX]] against [[Waaagh! Garaghak]], the [[Second Abonian Genocide]], the [[Death of the Witching Moon]], and the [[Orpheus Revolt]].
