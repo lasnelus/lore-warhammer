@@ -1,6 +1,4 @@
-The **Order of the Fractured Cipher** is an Order Dialogous.
-
-## Overview
+The **Order of the Fractured Cipher** is an [[Order Dialogus]].
 
 One of its main duties is to claim any discovered archaic Imperium documents which venerate the Traitor Legions or their Primarchs. Once in their possession, the Sisters of the Order translate and transcribe the texts and then give the records to their masters in the Ecclesiarchy, who determine what is to be done with the documents.
 

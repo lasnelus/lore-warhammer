@@ -1,1 +1,1 @@
-The **Order of the Eternal Candle** is an [[Orders Hospitaller|Order Hospitaller]] of the **Adepta Sororitas**. It is part of the **Convent Sanctorum**.
+The **Order of the Eternal Candle** is an [[Orders Hospitaller|Order Hospitaller]] of the **Adepta Sororitas**. It is part of the [[Convent Sanctorum]].

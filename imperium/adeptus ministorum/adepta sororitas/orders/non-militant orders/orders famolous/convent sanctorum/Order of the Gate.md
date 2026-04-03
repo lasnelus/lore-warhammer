@@ -1,1 +1,1 @@
-The **Order of the Gate** is an [[Orders Famulous|Order Famulous]]. It is part of the **Convent Sanctorum**.
+The **Order of the Gate** is an [[Orders Famulous|Order Famulous]]. It is part of the [[Convent Sanctorum]].

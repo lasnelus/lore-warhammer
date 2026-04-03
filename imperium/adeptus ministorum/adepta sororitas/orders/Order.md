@@ -6,7 +6,7 @@ An Order is led by the head Canoness called the Canoness Superior and runs the E
 An Order is made of multiple [[Preceptory]].
 
 [[Orders Militant]]
-[[Orders Dialogus]]
+[[Order Dialogus]]
 [[Orders Famulous]]
 [[Orders Hospitaller]]
 [[Orders Pronatus]]

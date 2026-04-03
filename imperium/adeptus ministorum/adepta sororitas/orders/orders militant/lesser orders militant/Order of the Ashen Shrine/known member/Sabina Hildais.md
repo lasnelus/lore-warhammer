@@ -1,0 +1,1 @@
+Sabina Hildais is a [[Canoness|Canoness Preceptor]] of the [[Order of the Ashen Shrine]]. She is currently among the Imperial forces defending the [[Pankallis Sub-sector]] and commands 28 Preceptories.

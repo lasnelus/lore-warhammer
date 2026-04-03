@@ -4,4 +4,4 @@
    - First Exclamation of the Dialogus Order of the Resounding Vow.
 ```
 
-The **Order of the Resounding Vow** is an Order of the Order Dialogous.
+The **Order of the Resounding Vow** is an Order of the [[Order Dialogus]].

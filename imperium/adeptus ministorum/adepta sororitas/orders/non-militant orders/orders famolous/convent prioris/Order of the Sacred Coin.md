@@ -1,1 +1,1 @@
-The **Order of the Sacred Coin** is an [[Orders Famulous|Order Famulous]]. It is part of the **Convent Prioris**.
+The **Order of the Sacred Coin** is an [[Orders Famulous|Order Famulous]]. It is part of the [[Convent Prioris]].
