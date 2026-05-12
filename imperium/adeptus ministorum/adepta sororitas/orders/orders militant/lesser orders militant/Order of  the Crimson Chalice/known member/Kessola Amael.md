@@ -1,0 +1,1 @@
+**Kessola Amael** was a [[Canoness]] Preceptor of the [[Order of the Crimson Chalice]]. She was among the Imperial commanders who took part in the [[Siege of Dharrovar]].

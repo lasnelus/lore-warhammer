@@ -1,1 +1,1 @@
-The **Order of the Carmine Tear** is a minor [[Orders Militant]] of the **Sisters of Battle**. They took part in the [[Charadon Campaign]], as part of [[Battle Group Tarsus]].
+The **Order of the Carmine Tear** is a minor [[Order Militant]] of the **Sisters of Battle**. They took part in the [[Charadon Campaign]], as part of [[Battle Group Tarsus]].

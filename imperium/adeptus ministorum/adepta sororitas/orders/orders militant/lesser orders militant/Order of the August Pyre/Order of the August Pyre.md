@@ -1,4 +1,4 @@
-The **Order of the August Pyre** is a minor [[Orders Militant]] of the Sisters of Battle.
+The **Order of the August Pyre** is a minor [[Order Militant]] of the Sisters of Battle.
 
 ### Notable Battles
 ---

@@ -1,0 +1,1 @@
+The **Order of the Enraptured Soul** is a minor [[Order Militant]] of the Sisters of Battle, who wear white power armour with gold details and purple robes.

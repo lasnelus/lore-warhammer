@@ -5,7 +5,7 @@
 An Order is led by the head Canoness called the Canoness Superior and runs the Entire Order.
 An Order is made of multiple [[Preceptory]].
 
-[[Orders Militant]]
+[[Order Militant]]
 [[Order Dialogus]]
 [[Orders Famulous]]
 [[Orders Hospitaller]]

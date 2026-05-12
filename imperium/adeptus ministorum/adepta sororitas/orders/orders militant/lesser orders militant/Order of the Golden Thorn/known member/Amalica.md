@@ -1,0 +1,1 @@
+**Amalica** was a [[Canoness]] of the [[Order of the Golden Thorn]], whose Sisters were among the Imperial forces that defended the Ecclesiarchy-held [[Vatrica System]].

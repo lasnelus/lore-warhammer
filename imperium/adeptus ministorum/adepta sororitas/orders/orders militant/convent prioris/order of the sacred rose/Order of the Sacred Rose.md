@@ -1,4 +1,4 @@
-The **Order of the Sacred Rose** is one of the six major [[Orders Militant]] of the **Adepta Sororitas**.
+The **Order of the Sacred Rose** is one of the six major [[Order Militant]] of the **Adepta Sororitas**.
 
 Founder : [[Deacis VI]]
 Founding : M38

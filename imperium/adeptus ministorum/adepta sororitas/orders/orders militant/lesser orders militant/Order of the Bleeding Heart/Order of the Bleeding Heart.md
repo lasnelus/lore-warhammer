@@ -1,4 +1,4 @@
-The **Order of the Bleeding Heart** are a minor [[Orders Militant]] of the **Adepta Sororitas**. Their abbey is located on the Shrine World of [[Emiline's Hope]], home to the bones of [[Saint Emiline]].
+The **Order of the Bleeding Heart** are a minor [[Order Militant]] of the **Adepta Sororitas**. Their abbey is located on the Shrine World of [[Emiline's Hope]], home to the bones of [[Saint Emiline]].
 
 ### Known Actions
 The order defended Emiline's Hope from Ork forces under the [[Arch Maniac of Calvera]] in 452.M41.

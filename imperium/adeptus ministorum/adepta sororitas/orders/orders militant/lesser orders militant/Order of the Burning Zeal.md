@@ -1,1 +1,1 @@
-The **Order of the Burning Zeal** are a minor [[Orders Militant]] of the **Sisters of Battle**.
+The **Order of the Burning Zeal** are a minor [[Order Militant]] of the **Sisters of Battle**.

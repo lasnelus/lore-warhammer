@@ -1,4 +1,4 @@
-The **Order of the Blue Robe** is a minor [[Orders Militant]] of the **Sisters of Battle**. They are part of the [[Convent Sanctorum]] on [[Terra]].
+The **Order of the Blue Robe** is a minor [[Order Militant]] of the **Sisters of Battle**. They are part of the [[Convent Sanctorum]] on [[Terra]].
 
 ### Known Actions
 * [[Second Abonian Genocide]] - Aiding [[Halen Jentz|Inquisitor Halen Jentz]].

@@ -1,0 +1,1 @@
+The **Order of the Final Word** is a Death Cult-styled minor [[Order Militant]] of the Sisters of Battle.

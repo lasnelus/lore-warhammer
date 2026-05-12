@@ -1,4 +1,4 @@
-The **Order of the Ebon Chalice** is one of the six major [[Orders Militant]] of the **Adepta Sororitas**.
+The **Order of the Ebon Chalice** is one of the six major [[Order Militant]] of the **Adepta Sororitas**.
 
 ### Overview
 ---

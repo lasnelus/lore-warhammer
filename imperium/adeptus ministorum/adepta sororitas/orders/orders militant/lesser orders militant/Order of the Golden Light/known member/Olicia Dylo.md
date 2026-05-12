@@ -1,0 +1,1 @@
+**Olicia Dylo** is a [[Canoness]] Preceptor in the [[Order of the Golden Light]]. She is currently among the Imperial forces defending the [[Pankallis Sub-sector]] and commands 7 Commanderies.

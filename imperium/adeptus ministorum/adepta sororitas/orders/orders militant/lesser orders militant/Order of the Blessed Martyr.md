@@ -1,1 +1,1 @@
-The **Order of the Blessed Martyr** is a minor [[Orders Militant]] of the **Sisters of Battle**. 8 of its Preceptories are taking part in [[The Chancyll Suppression]], during the [[Prosperan Rift War]].
+The **Order of the Blessed Martyr** is a minor [[Order Militant]] of the **Sisters of Battle**. 8 of its Preceptories are taking part in [[The Chancyll Suppression]], during the [[Prosperan Rift War]].

@@ -1,0 +1,1 @@
+The **Order of the Crimson Shroud** is a minor [[Order Militant]] of the Sisters of Battle that possesses a convent on the Imperium world [[Grief's Landing.]]
