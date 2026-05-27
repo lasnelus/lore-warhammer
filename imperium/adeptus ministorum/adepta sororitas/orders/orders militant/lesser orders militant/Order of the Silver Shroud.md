@@ -1,0 +1,1 @@
+The **Order of the Silver Shroud** is a lesser [[Order Militant]] of the Adepta Sororitas.

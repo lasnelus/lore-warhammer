@@ -1,0 +1,3 @@
+The **Order of the Sable Robe** is a minor [[Order Militant]] of the Sisters of Battle.
+
+They took part in the [[Chromyd Front]], where they defended [[Martyr's Rest]] from both the Dark Eldar and the Death Guard. Remarkably three of the Sable Robe's Missions, held the [[Sanctuary of St. Trystahn Beloved ]]against waves of Plague Zombies before they were overrun. Eventually, all of Martyr's Rest fell to the Death Guard as well.

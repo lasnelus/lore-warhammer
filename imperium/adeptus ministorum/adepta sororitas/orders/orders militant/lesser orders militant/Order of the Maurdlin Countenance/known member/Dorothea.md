@@ -1,0 +1,1 @@
+**Dorothea** is a [[Canoness]]-Preceptor of the [[Order of the Maurdlin Countenance]]. She was commended for the defence of [[Sancho Panza]], a campaign of the Imperial defence against the [[13th Black Crusade]].

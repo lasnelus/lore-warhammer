@@ -1,0 +1,1 @@
+The **Order of the Last Prioress** is a minor [[Order Militant]] of the Sisters of Battle and took part in the [[War of Beasts]].

@@ -1,0 +1,1 @@
+The **Order of the Last Candle** is a minor [[Order Militant]] of the Sisters of Battle.

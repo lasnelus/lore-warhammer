@@ -1,0 +1,1 @@
+The **Order of the Silver Veil** is a minor [[Order Militant]] of the Sisters of Battle. 7 of its Preceptories are taking part in the [[Relief of Harlecrypt Tertius]], during the [[Prosperan Rift War]].

@@ -1,0 +1,1 @@
+**Liona** is the current [[Canoness]], of the [[Order of the Shining Blade]].

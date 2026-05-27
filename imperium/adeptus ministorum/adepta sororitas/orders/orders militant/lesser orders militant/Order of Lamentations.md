@@ -1,0 +1,3 @@
+The **Order of Lamentations** is a minor [[Order Militant]] of the Sisters of Battle and created the [[Raiment of Sorrows]], which has since become an Adeptus Custodes relic.
+
+They took part in the [[Indomitus Crusade]] and served in [[Battle Group Kallides]], which fought the Necrons in the [[Pariah Nexus]]. During the war against the Xenos, the Order of Lamentations was among the Battle Group's forces sent to defend [[Paradyce II]].

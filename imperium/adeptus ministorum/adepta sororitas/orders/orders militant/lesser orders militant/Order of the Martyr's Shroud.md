@@ -1,0 +1,1 @@
+The **Order of the Martyr's Shroud** is a minor [[Order Militant]] of the Sisters of Battle that took part in the [[War of Beasts]].

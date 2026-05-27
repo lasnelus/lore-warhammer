@@ -1,0 +1,1 @@
+The **Order of the Ivory Blade** are a lesser [[Order Militant]] of the Adepta Sororitas. They took part in the [[Argovon Campaign]] as part of [[Task Force XI|Indomitus Crusade Task Force XI]], fighting against the Necrons on [[Sarronik]].

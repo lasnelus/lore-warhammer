@@ -1,0 +1,1 @@
+**Astra** is a [[Canoness]] of the [[Order of the Silver Lilly]]. She was noted for her loyal service during the defence of [[Subiaco Diablo]], a campaign of the Imperial defence against the [[13th Black Crusade]].

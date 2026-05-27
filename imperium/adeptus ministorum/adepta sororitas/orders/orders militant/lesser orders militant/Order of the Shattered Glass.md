@@ -1,0 +1,1 @@
+The **Order of the Shattered Glass** is a minor [[Order Militant]] of the Sisters of Battle. Their convent is on the frozen ice moon [[Enceladus]], attached to the Ordo Malleus's [[Enceladus Fortress]].

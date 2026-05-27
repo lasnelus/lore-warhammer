@@ -1,0 +1,3 @@
+The **Order of the Shining Blade** is a minor [[Order Militant]] of the Sisters of Battle and is descended from the [[Order of the Ebon Chalice]].
+
+They wear gold and white Power Armour and are charged with defending the Cardinal World of [[Ossuar]] in the [[Askellon Sector]]. At the behest of Ossuar's Arch-Cardinals, however, the Shining Blade has also fought battles across the Sector since its founding millennia ago. Such deployments are typically in response to requests from other dioceses, but some actions, such as the [[Quelling of Hive Suzzum]], have been at the behest of the Adeptus Administratum. The Order's Convent on Ossuar currently houses over 300 Battle Sisters, which are led by Canoness [[Liona]].

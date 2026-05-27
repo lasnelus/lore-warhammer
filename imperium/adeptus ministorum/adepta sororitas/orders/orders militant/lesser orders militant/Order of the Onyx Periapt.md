@@ -1,0 +1,1 @@
+The **Order of the Onyx Periapt** is a minor [[Order Militant]] of the Sisters of Battle. They took part in the [[Charadon Campaign]], as part of [[Battle Group Tarsus]].

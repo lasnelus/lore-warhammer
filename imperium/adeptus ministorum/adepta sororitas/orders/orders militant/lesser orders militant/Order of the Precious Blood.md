@@ -1,0 +1,1 @@
+The **Order of the Precious Blood** is a minor [[Order Militant]] of the Sisters of Battle. Their Priory was attacked by the Red Corsairs Warband.
