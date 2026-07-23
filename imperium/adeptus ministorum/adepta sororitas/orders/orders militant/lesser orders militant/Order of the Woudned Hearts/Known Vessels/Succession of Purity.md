@@ -1,0 +1,4 @@
+The **Succession of Purity** was an [[Order of the Wounded Heart]] warship and served as its strike force's flagship, in Cardinal Astra [[Leon ­Chirastes]]'s fleet during the [[Incursion of Fools]].
+
+## History
+The warship was heavily damaged in the fleet's battle with the [[Space Wolves]] and its not known if the Succession of Purity survived the conflict. It was a key factor in allowing Cardinal Astra Chirastes to later strike back at the Chapter, as he had deployed a Sensor-vessel to shadow the larger warship. With the Succession of Purity acting as its cover, the Sensor-vessel was able to gather a list of names of the high ranking Space Wolves who had opposed him. Chirastes later used the list to begin a shadow war against the Chapter.

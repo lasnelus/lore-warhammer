@@ -1,0 +1,1 @@
+**Kile Simlex** is an Imperial [[Propagandist]], who has been sent to the War World Bacchus to create a cinema-pict of the legendary Imperial Navy flying ace, [[Lucille von Shard]]. However when he arrives there, Simlex discovers Shard is not quite what he expected.

@@ -1,0 +1,1 @@
+Briar was a [[Canoness]] of the [[Order of the Thorn]], who became a revered martyr to the Order, after her death in battle.

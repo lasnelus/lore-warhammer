@@ -1,0 +1,1 @@
+**Callia** was a Sister of the [[Order of the Wounded Heart]], who served as an aide for [[Alexis de Chatelaine|Canoness de Chatelaine]].

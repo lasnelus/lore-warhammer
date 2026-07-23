@@ -1,0 +1,1 @@
+The **Order of the White Rose** is a minor [[Order Militant]] of the Sisters of Battle. It split from the [[Order of the Sacred Rose]] in M39.

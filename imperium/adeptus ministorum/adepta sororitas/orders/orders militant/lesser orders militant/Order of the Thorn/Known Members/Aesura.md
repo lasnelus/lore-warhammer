@@ -1,0 +1,3 @@
+**Aesura** is a fearsome [[Palatine]] of the Adepta Sororitas' [[Order of the Thorn]].
+
+She led her Battle Sisters to victory over the [[Eightfold Bane]] Word Bearers host, when it invaded the Ecclesiarchy Scribe World [[Legitur]]. However, the Eightfold Bane's Dark Apostle, [[Cerastes]], survived his host's destruction and remains hidden on the world. He has vowed to not only conquer Legitur, as the Dark Apostle had originally planned, but to also rebuild the Eightfold Bane as well.

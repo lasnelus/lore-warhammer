@@ -1,0 +1,1 @@
+**Arvian Nomu** was a scholar who lived on [[Ras Shakeh]], where he served as an advisor to Canoness [[Alexis de Chatelaine]] of the [[Order of the Wounded Heart]].

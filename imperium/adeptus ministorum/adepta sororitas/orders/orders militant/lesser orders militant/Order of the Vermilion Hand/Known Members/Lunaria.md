@@ -1,0 +1,1 @@
+Lunaria was a [[Canoness]] of the [[Order of the Vermilion Hand]]. She gave her life to stop the [[Plague of Madness]].
