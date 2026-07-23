@@ -1,0 +1,4 @@
+**Thiennes** was once a member of the [[Logos Historica Verita]] and was among the first to join, alongside [[Solana]] and [[Deven Mudire.]]
+
+## History
+He was selected to join by Lord Commander Guilliman, but Thiennes was later removed for displeasing the Lord Commander. The exact reason for this is unknown, but Mudire has implied that Thiennes did not do the background research that was expected of him, before he began his given assignments for the Verita. Thiennes' fall from grace greatly impacted both Solana and Mudire, long after they were joined by another historitor named [[Fabian Guelphrain]]. When the [[Messinius|Space Marine Captain Messinius]] later told them to take their roles as historitors seriously, Mudire was quick to say they would. For Thiennes' fate was still fresh in their minds.

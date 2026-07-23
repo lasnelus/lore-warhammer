@@ -1,0 +1,1 @@
+**Rahab Linsel** is an Imperial [[Historitor]], among the works they have authored is [[The Glorious Salvation of Cnida Tertius]].

@@ -1,0 +1,3 @@
+**Alfus Rekorik Smigh** is a member of the [[Logos Historica Verita]].
+
+He was appointed to write a comprehensive history of [[Battle Group Kallides]]' war against the Necrons in the [[Pariah Nexus]]. Smigh succeeded in his task and completed the multi-volume series named [[The Definitive Account Of The War For The Pariah Nexus]]. He noted, however, that the [[Darkspires]] Chapter refused to answer his questions about the key part they played in defending [[Paradyce II]] from the Necrons. While this annoyed Smigh, he noted that the Chapter was loyal to the Imperium and must have had a good reason for their secrecy.

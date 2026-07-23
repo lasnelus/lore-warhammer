@@ -1,0 +1,1 @@
+**Copla-var** is a member of the [[Logos Historica Verita]], who serves in [[Indomitus Crusade Fleet Primus]].
