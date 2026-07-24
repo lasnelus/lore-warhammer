@@ -1,0 +1,1 @@
+The **Synopticon** is an agency of the Imperium. Its leader, the **Lord Constable**, is a lesser member of the [[Senatorum Imperialis]].

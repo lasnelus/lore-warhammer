@@ -37,7 +37,7 @@
 [[Silver Eagles]]
 [[Silver Guard]]
 [[Silver Skulls]]
-[[imperium/adeptus astartes/legion/seconde fondation/Soul Drinkers|Soul Drinkers]]
+[[Soul Drinkers|Soul Drinkers]]
 [[Storm Lords]]
 [[White Consuls]]
 [[Wolf Brothers]]

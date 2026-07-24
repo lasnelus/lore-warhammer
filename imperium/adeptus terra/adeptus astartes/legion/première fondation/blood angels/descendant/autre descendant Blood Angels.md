@@ -1,6 +1,6 @@
 [[Absolvers]]
 [[Knights of blood]]
-[[Angels Excelsis]]
+[[Angels excelsis]]
 [[Blood Eagles]]
 [[Blood Wings]]
 [[Brothers of Jarad]]

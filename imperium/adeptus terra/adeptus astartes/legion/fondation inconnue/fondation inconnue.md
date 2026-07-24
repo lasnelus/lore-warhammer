@@ -4,7 +4,7 @@
 [[Andromedan Blades]]
 [[Angel Guard]]
 [[Angels Eradicant]]
-[[Angels Excelsis]]
+[[Angels excelsis]]
 [[Angels Glorious]]
 [[Angels of Damnation]]
 [[Angels of Fury]]
